@@ -687,7 +687,7 @@ table {
 @media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003100}}
   #header #logo {
     float: left;
-    width: 25%;
+    width: 50%;
     margin-left: 25%;
     margin-right: -100%;
     *margin-right: -99.9%;
@@ -697,7 +697,7 @@ table {
   #header #block-search-form {
     float: left;
     width: 25%;
-    margin-left: 50%;
+    margin-left: 75%;
     margin-right: -100%;
     *margin-right: -99.9%;
   }
