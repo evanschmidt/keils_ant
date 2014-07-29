@@ -739,17 +739,75 @@ table {
   }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003117}}
-  #block-views-main-landing-block-7 {
+  .region-content-bottom {
+    clear: left;
+    padding-left: 10px;
+    padding-right: 10px;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+    *behavior: url("box-sizing-polyfill-master/boxsizing.htc");
+    *word-wrap: break-word;
+    *position: relative;
+    *zoom: 1;
+    padding-left: 0;
+    padding-right: 0;
+    float: left;
+    width: 133.33333%;
+    margin-left: 0%;
+    margin-right: -100%;
+    *margin-right: -99.9%;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass-extensions\/zen-grids\/zen-grids\/_grids\.scss}line{font-family:\0000343}}
+  .region-content-bottom:before, .region-content-bottom:after {
+    content: "";
+    display: table;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass-extensions\/zen-grids\/zen-grids\/_grids\.scss}line{font-family:\0000348}}
+  .region-content-bottom:after {
+    clear: both;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003122}}
+  .region-content-bottom #block-views-main-landing-block-7 {
+    padding-left: 10px;
+    padding-right: 10px;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+    *behavior: url("box-sizing-polyfill-master/boxsizing.htc");
+    *word-wrap: break-word;
+    *position: relative;
+    *zoom: 1;
     float: left;
     width: 25%;
     margin-left: 0%;
     margin-right: -100%;
     *margin-right: -99.9%;
-    clear: left;
+    padding: 10px;
   }
-
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003121}}
-  #block-block-3 {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass-extensions\/zen-grids\/zen-grids\/_grids\.scss}line{font-family:\0000343}}
+  .region-content-bottom #block-views-main-landing-block-7:before, .region-content-bottom #block-views-main-landing-block-7:after {
+    content: "";
+    display: table;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass-extensions\/zen-grids\/zen-grids\/_grids\.scss}line{font-family:\0000348}}
+  .region-content-bottom #block-views-main-landing-block-7:after {
+    clear: both;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003128}}
+  .region-content-bottom #block-block-3 {
+    padding-left: 10px;
+    padding-right: 10px;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+    *behavior: url("box-sizing-polyfill-master/boxsizing.htc");
+    *word-wrap: break-word;
+    *position: relative;
+    *zoom: 1;
     float: left;
     width: 25%;
     margin-left: 25%;
@@ -757,21 +815,49 @@ table {
     *margin-right: -99.9%;
     display: block;
   }
-
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003125}}
-  #block-views-main-landing-block-6 {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass-extensions\/zen-grids\/zen-grids\/_grids\.scss}line{font-family:\0000343}}
+  .region-content-bottom #block-block-3:before, .region-content-bottom #block-block-3:after {
+    content: "";
+    display: table;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass-extensions\/zen-grids\/zen-grids\/_grids\.scss}line{font-family:\0000348}}
+  .region-content-bottom #block-block-3:after {
+    clear: both;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003134}}
+  .region-content-bottom #block-views-main-landing-block-6 {
+    padding-left: 10px;
+    padding-right: 10px;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+    *behavior: url("box-sizing-polyfill-master/boxsizing.htc");
+    *word-wrap: break-word;
+    *position: relative;
+    *zoom: 1;
     float: left;
     width: 25%;
     margin-left: 50%;
     margin-right: -100%;
     *margin-right: -99.9%;
+    padding: 10px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass-extensions\/zen-grids\/zen-grids\/_grids\.scss}line{font-family:\0000343}}
+  .region-content-bottom #block-views-main-landing-block-6:before, .region-content-bottom #block-views-main-landing-block-6:after {
+    content: "";
+    display: table;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass-extensions\/zen-grids\/zen-grids\/_grids\.scss}line{font-family:\0000348}}
+  .region-content-bottom #block-views-main-landing-block-6:after {
+    clear: both;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003129}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003142}}
   #navigation h2 {
     display: none;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003132}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003145}}
   #navigation #nice-menu-1 {
     *position: relative;
     *zoom: 1;
@@ -794,7 +880,7 @@ table {
   #navigation #nice-menu-1:after {
     clear: both;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003139}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003152}}
   #navigation #dhtml_menu-377 {
     float: left;
     width: 14.28571%;
@@ -802,7 +888,7 @@ table {
     margin-right: -100%;
     *margin-right: -99.9%;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003142}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003155}}
   #navigation #dhtml_menu-3793 {
     float: left;
     width: 14.28571%;
@@ -810,7 +896,7 @@ table {
     margin-right: -100%;
     *margin-right: -99.9%;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003145}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003158}}
   #navigation #dhtml_menu-3799 {
     float: left;
     width: 14.28571%;
@@ -818,7 +904,7 @@ table {
     margin-right: -100%;
     *margin-right: -99.9%;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003148}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003161}}
   #navigation #dhtml_menu-3832 {
     float: left;
     width: 14.28571%;
@@ -826,7 +912,7 @@ table {
     margin-right: -100%;
     *margin-right: -99.9%;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003151}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003164}}
   #navigation #dhtml_menu-3844 {
     float: left;
     width: 14.28571%;
@@ -834,7 +920,7 @@ table {
     margin-right: -100%;
     *margin-right: -99.9%;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003154}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003167}}
   #navigation #dhtml_menu-3851 {
     float: left;
     width: 14.28571%;
@@ -842,7 +928,7 @@ table {
     margin-right: -100%;
     *margin-right: -99.9%;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003157}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003170}}
   #navigation #dhtml_menu-385 {
     float: left;
     width: 14.28571%;
@@ -854,12 +940,12 @@ table {
   /**
    * The layout when there is only one sidebar, the left one.
    */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003187}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003200}}
   .sidebar-first {
     /* Span 2 columns, starting in 2nd column from left. */
     /* Span 1 column, starting in 1st column from left. */
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003191}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003204}}
   .sidebar-first #content {
     float: left;
     width: 75%;
@@ -867,7 +953,7 @@ table {
     margin-right: -100%;
     *margin-right: -99.9%;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003196}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003209}}
   .sidebar-first .region-sidebar-first {
     float: left;
     width: 25%;
@@ -879,12 +965,12 @@ table {
   /**
    * The layout when there is only one sidebar, the right one.
    */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003204}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003217}}
   .sidebar-second {
     /* Span 2 columns, starting in 1st column from left. */
     /* Span 1 column, starting in 3rd column from left. */
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003206}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003219}}
   .sidebar-second #content {
     float: left;
     width: 50%;
@@ -892,7 +978,7 @@ table {
     margin-right: -100%;
     *margin-right: -99.9%;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003211}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003224}}
   .sidebar-second .region-sidebar-second {
     float: left;
     width: 25%;
@@ -904,13 +990,13 @@ table {
   /**
    * The layout when there are two sidebars.
    */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003219}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003232}}
   .two-sidebars {
     /* Span 2 columns, starting in 2nd column from left. */
     /* Span 1 column, starting in 1st column from left. */
     /* Start a new row and span all 3 columns. */
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003221}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003234}}
   .two-sidebars #content {
     float: left;
     width: 50%;
@@ -918,7 +1004,7 @@ table {
     margin-right: -100%;
     *margin-right: -99.9%;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003226}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003239}}
   .two-sidebars .region-sidebar-first {
     float: left;
     width: 25%;
@@ -926,7 +1012,7 @@ table {
     margin-right: -100%;
     *margin-right: -99.9%;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003231}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003244}}
   .two-sidebars .region-sidebar-second {
     float: left;
     width: 75%;
@@ -954,7 +1040,7 @@ table {
   .two-sidebars .region-sidebar-second:after {
     clear: both;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003237}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003250}}
   .two-sidebars .region-sidebar-second .block {
     padding-left: 10px;
     padding-right: 10px;
@@ -965,7 +1051,7 @@ table {
     *behavior: url("box-sizing-polyfill-master/boxsizing.htc");
     *word-wrap: break-word;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003241}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003254}}
   .two-sidebars .region-sidebar-second .block:nth-child(3n+1) {
     float: left;
     width: 25%;
@@ -974,7 +1060,7 @@ table {
     *margin-right: -99.9%;
     clear: left;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003246}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003259}}
   .two-sidebars .region-sidebar-second .block:nth-child(3n+2) {
     float: left;
     width: 25%;
@@ -982,7 +1068,7 @@ table {
     margin-right: -100%;
     *margin-right: -99.9%;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003250}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003263}}
   .two-sidebars .region-sidebar-second .block:nth-child(3n) {
     float: left;
     width: 25%;
@@ -991,16 +1077,16 @@ table {
     *margin-right: -99.9%;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003256}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003269}}
   .page-taxonomy-term .view-taxonomy-term {
     text-align: center;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003258}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003271}}
   .page-taxonomy-term .view-taxonomy-term .views-field-title {
     text-align: center;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003264}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003277}}
   .views-responsive-grid {
     padding-left: 10px;
     padding-right: 10px;
@@ -1026,7 +1112,7 @@ table {
     clear: both;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003269}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003282}}
   .views-responsive-grid.views-columns-2 {
     *position: relative;
     *zoom: 1;
@@ -1044,11 +1130,11 @@ table {
   .views-responsive-grid.views-columns-2:after {
     clear: both;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003272}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003285}}
   .views-responsive-grid.views-columns-2 .views-row {
     clear: left;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003275}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003288}}
   .views-responsive-grid.views-columns-2 .views-column-1 {
     float: left;
     width: 50%;
@@ -1056,7 +1142,7 @@ table {
     margin-right: -100%;
     *margin-right: -99.9%;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003278}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003291}}
   .views-responsive-grid.views-columns-2 .views-column-2 {
     float: left;
     width: 50%;
@@ -1065,7 +1151,7 @@ table {
     *margin-right: -99.9%;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003282}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003295}}
   .views-responsive-grid.views-columns-3 {
     *position: relative;
     *zoom: 1;
@@ -1083,17 +1169,17 @@ table {
   .views-responsive-grid.views-columns-3:after {
     clear: both;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003286}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003299}}
   .views-responsive-grid.views-columns-3 .views-row {
     width: 49%;
     float: left;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003289}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003302}}
   .views-responsive-grid.views-columns-3 .views-row:nth-child(2n - 1) {
     margin-right: 2%;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003294}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003307}}
   .views-responsive-grid.views-columns-4 {
     *position: relative;
     *zoom: 1;
@@ -1111,7 +1197,7 @@ table {
   .views-responsive-grid.views-columns-4:after {
     clear: both;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003298}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003311}}
   .views-responsive-grid.views-columns-4 .views-column-1 {
     float: left;
     width: 25%;
@@ -1119,7 +1205,7 @@ table {
     margin-right: -100%;
     *margin-right: -99.9%;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003301}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003314}}
   .views-responsive-grid.views-columns-4 .views-column-2 {
     float: left;
     width: 25%;
@@ -1128,7 +1214,7 @@ table {
     *margin-right: -99.9%;
     clear: left;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003305}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003318}}
   .views-responsive-grid.views-columns-4 .views-column-3 {
     float: left;
     width: 25%;
@@ -1136,7 +1222,7 @@ table {
     margin-right: -100%;
     *margin-right: -99.9%;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003308}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003321}}
   .views-responsive-grid.views-columns-4 .views-column-4 {
     float: left;
     width: 25%;
@@ -1149,7 +1235,7 @@ table {
  * Use 5 grid columns for larger screens.
  */
 @media all and (min-width: 960px) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003326}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003339}}
   #header #block-block-1 {
     float: left;
     width: 33.33333%;
@@ -1157,7 +1243,7 @@ table {
     margin-right: -100%;
     *margin-right: -99.9%;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003328}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003341}}
   #header #block-block-1 p {
     bottom: 0;
     left: 30px;
@@ -1165,7 +1251,7 @@ table {
     padding: 0;
     position: absolute;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003336}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003349}}
   #header #logo {
     float: left;
     width: 66.66667%;
@@ -1176,7 +1262,7 @@ table {
     margin-top: 1.5em;
     margin-bottom: 1.5em;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003342}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003355}}
   #header #block-search-form {
     float: left;
     width: 33.33333%;
@@ -1185,20 +1271,20 @@ table {
     *margin-right: -99.9%;
     text-align: right;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003345}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003358}}
   #header #block-search-form .search-form {
     bottom: 0;
     margin: 0.5em 1em;
     position: absolute;
     right: 0;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003351}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003364}}
   #header #block-search-form .form-submit {
     position: relative;
     top: 5px;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003357}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003370}}
   #block-views-homepage-images-block {
     padding-left: 10px;
     padding-right: 10px;
@@ -1229,12 +1315,12 @@ table {
     clear: both;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003363}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003376}}
   #block-block-17 {
     display: none;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003366}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003379}}
   .region-content-bottom {
     clear: left;
     padding-left: 10px;
@@ -1264,7 +1350,7 @@ table {
   .region-content-bottom:after {
     clear: both;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003371}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003384}}
   .region-content-bottom #block-views-main-landing-block-7 {
     padding-left: 10px;
     padding-right: 10px;
@@ -1292,7 +1378,7 @@ table {
   .region-content-bottom #block-views-main-landing-block-7:after {
     clear: both;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003377}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003390}}
   .region-content-bottom #block-block-3 {
     padding-left: 10px;
     padding-right: 10px;
@@ -1320,7 +1406,7 @@ table {
   .region-content-bottom #block-block-3:after {
     clear: both;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003383}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003396}}
   .region-content-bottom #block-views-main-landing-block-6 {
     padding-left: 10px;
     padding-right: 10px;
@@ -1349,11 +1435,11 @@ table {
     clear: both;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003392}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003405}}
   #navigation h2 {
     display: none;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003395}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003408}}
   #navigation #nice-menu-1 {
     height: 3.5em;
     *position: relative;
@@ -1377,7 +1463,7 @@ table {
   #navigation #nice-menu-1:after {
     clear: both;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003411}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003424}}
   #navigation #dhtml_menu-377 {
     float: left;
     width: 14.28571%;
@@ -1385,7 +1471,7 @@ table {
     margin-right: -100%;
     *margin-right: -99.9%;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003414}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003427}}
   #navigation #dhtml_menu-3793 {
     float: left;
     width: 14.28571%;
@@ -1393,7 +1479,7 @@ table {
     margin-right: -100%;
     *margin-right: -99.9%;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003417}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003430}}
   #navigation #dhtml_menu-3799 {
     float: left;
     width: 14.28571%;
@@ -1401,7 +1487,7 @@ table {
     margin-right: -100%;
     *margin-right: -99.9%;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003420}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003433}}
   #navigation #dhtml_menu-3832 {
     float: left;
     width: 14.28571%;
@@ -1409,7 +1495,7 @@ table {
     margin-right: -100%;
     *margin-right: -99.9%;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003423}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003436}}
   #navigation #dhtml_menu-3844 {
     float: left;
     width: 14.28571%;
@@ -1417,7 +1503,7 @@ table {
     margin-right: -100%;
     *margin-right: -99.9%;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003426}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003439}}
   #navigation #dhtml_menu-3851 {
     float: left;
     width: 14.28571%;
@@ -1425,7 +1511,7 @@ table {
     margin-right: -100%;
     *margin-right: -99.9%;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003429}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003442}}
   #navigation #dhtml_menu-385 {
     float: left;
     width: 14.28571%;
@@ -1437,12 +1523,12 @@ table {
   /**
    * The layout when there is only one sidebar, the left one.
    */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003459}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003472}}
   .sidebar-first {
     /* Span 4 columns, starting in 2nd column from left. */
     /* Span 1 column, starting in 1st column from left. */
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003463}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003476}}
   .sidebar-first #content {
     float: left;
     width: 83.33333%;
@@ -1451,7 +1537,7 @@ table {
     *margin-right: -99.9%;
     padding-right: 6em;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003470}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003483}}
   .sidebar-first .region-sidebar-first {
     float: left;
     width: 16.66667%;
@@ -1463,12 +1549,12 @@ table {
   /**
    * The layout when there is only one sidebar, the right one.
    */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003478}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003491}}
   .sidebar-second {
     /* Span 4 columns, starting in 1st column from left. */
     /* Span 1 column, starting in 5th column from left. */
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003480}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003493}}
   .sidebar-second #content {
     float: left;
     width: 83.33333%;
@@ -1476,7 +1562,7 @@ table {
     margin-right: -100%;
     *margin-right: -99.9%;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003485}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003498}}
   .sidebar-second .region-sidebar-second {
     float: left;
     width: 16.66667%;
@@ -1488,13 +1574,13 @@ table {
   /**
    * The layout when there are two sidebars.
    */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003493}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003506}}
   .two-sidebars {
     /* Span 3 columns, starting in 2nd column from left. */
     /* Span 1 column, starting in 1st column from left. */
     /* Span 1 column, starting in 5th column from left. */
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003495}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003508}}
   .two-sidebars #content {
     float: left;
     width: 66.66667%;
@@ -1502,7 +1588,7 @@ table {
     margin-right: -100%;
     *margin-right: -99.9%;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003500}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003513}}
   .two-sidebars .region-sidebar-first {
     float: left;
     width: 16.66667%;
@@ -1510,7 +1596,7 @@ table {
     margin-right: -100%;
     *margin-right: -99.9%;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003505}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003518}}
   .two-sidebars .region-sidebar-second {
     float: left;
     width: 16.66667%;
@@ -1519,16 +1605,16 @@ table {
     *margin-right: -99.9%;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003510}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003523}}
   .page-taxonomy-term .view-taxonomy-term {
     text-align: left;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003512}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003525}}
   .page-taxonomy-term .view-taxonomy-term .views-field-title {
     text-align: center;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003519}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003532}}
   .views-responsive-grid {
     padding-left: 10px;
     padding-right: 10px;
@@ -1554,12 +1640,12 @@ table {
     clear: both;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003524}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003537}}
   .views-responsive-grid .views-row {
     clear: left;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003527}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003540}}
   .views-responsive-grid.views-columns-2 {
     *position: relative;
     *zoom: 1;
@@ -1577,7 +1663,7 @@ table {
   .views-responsive-grid.views-columns-2:after {
     clear: both;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003530}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003543}}
   .views-responsive-grid.views-columns-2 .views-column-1 {
     float: left;
     width: 50%;
@@ -1585,7 +1671,7 @@ table {
     margin-right: -100%;
     *margin-right: -99.9%;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003533}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003546}}
   .views-responsive-grid.views-columns-2 .views-column-2 {
     float: left;
     width: 50%;
@@ -1594,7 +1680,7 @@ table {
     *margin-right: -99.9%;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003537}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003550}}
   .views-responsive-grid.views-columns-3 {
     *position: relative;
     *zoom: 1;
@@ -1612,7 +1698,7 @@ table {
   .views-responsive-grid.views-columns-3:after {
     clear: both;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003540}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003553}}
   .views-responsive-grid.views-columns-3 .views-column-1 {
     float: left;
     width: 33.33333%;
@@ -1620,7 +1706,7 @@ table {
     margin-right: -100%;
     *margin-right: -99.9%;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003543}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003556}}
   .views-responsive-grid.views-columns-3 .views-column-2 {
     float: left;
     width: 33.33333%;
@@ -1628,7 +1714,7 @@ table {
     margin-right: -100%;
     *margin-right: -99.9%;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003546}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003559}}
   .views-responsive-grid.views-columns-3 .views-column-3 {
     float: left;
     width: 33.33333%;
@@ -1637,7 +1723,7 @@ table {
     *margin-right: -99.9%;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003550}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003563}}
   .views-responsive-grid.views-columns-4 {
     *position: relative;
     *zoom: 1;
@@ -1655,7 +1741,7 @@ table {
   .views-responsive-grid.views-columns-4:after {
     clear: both;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003554}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003567}}
   .views-responsive-grid.views-columns-4 .views-column-1 {
     float: left;
     width: 25%;
@@ -1663,7 +1749,7 @@ table {
     margin-right: -100%;
     *margin-right: -99.9%;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003557}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003570}}
   .views-responsive-grid.views-columns-4 .views-column-2 {
     float: left;
     width: 25%;
@@ -1671,7 +1757,7 @@ table {
     margin-right: -100%;
     *margin-right: -99.9%;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003560}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003573}}
   .views-responsive-grid.views-columns-4 .views-column-3 {
     float: left;
     width: 25%;
@@ -1679,7 +1765,7 @@ table {
     margin-right: -100%;
     *margin-right: -99.9%;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003563}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003576}}
   .views-responsive-grid.views-columns-4 .views-column-4 {
     float: left;
     width: 25%;

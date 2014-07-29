@@ -114,16 +114,29 @@ $zen-auto-include-grid-item-base: false;
   #block-block-17 {
     display: none;
   }
-  #block-views-main-landing-block-7 {
-    @include zen-grid-item(1, 1);
-    @include zen-new-row();
-  }
-  #block-block-3 {
-    @include zen-grid-item(1, 2);
-    display: block;
-  }
-  #block-views-main-landing-block-6 {
-    @include zen-grid-item(1, 3);
+  .region-content-bottom {
+      @include zen-new-row();
+      @include zen-grid-item-base();
+      @include zen-grid-container($context: grid-item);
+      @include zen-grid-item(4, 1, $columns: 3);
+    #block-views-main-landing-block-7 {
+      @include zen-grid-item-base();
+      @include zen-grid-container($context: none);
+      @include zen-grid-item(1, 1);
+      padding: 10px;
+    }
+    #block-block-3 {
+      @include zen-grid-item-base();
+      @include zen-grid-container($context: none);
+      @include zen-grid-item(1, 2);
+      display: block;
+    }
+    #block-views-main-landing-block-6 {
+      @include zen-grid-item-base();
+      @include zen-grid-container($context: none);
+      @include zen-grid-item(1, 3);
+      padding: 10px;
+    }
   }
 #navigation {
   h2 {
