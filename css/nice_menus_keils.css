@@ -1,0 +1,333 @@
+/*
+  This is the default layout template for nice menus, and will provide
+  a starting point for the look of your menus. To customize, it's
+  recommended to create a custom CSS file using this file as a template,
+  then configure the module to use your custom CSS file
+  (this is done in the global settings tab of the theme administration.)
+
+  See README.txt and the handbook page (http://drupal.org/node/185543)
+  for more information on using the CSS.
+*/
+
+/******************************
+ Global CSS for ALL menu types
+******************************/
+#block-nice-menus-1 {
+}
+ul.nice-menu,
+ul.nice-menu ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  border-top: 0px solid #fff;
+  
+}
+
+ul.nice-menu li {
+  border: 0px solid #fff;
+  border-top: 0;
+  float: left; /* LTR */
+  background-color: #fff;
+}
+
+ul.nice-menu a {
+    color: #462211;
+    position: relative;
+    text-align: center;
+    text-decoration: none;
+    top: 25px;
+}
+.not-front ul.nice-menu a {
+  /*padding: 0.3em 19px 0.3em 19px;*/
+}
+ul.nice-menu a:hover, ul.nice-menu a.active, li.active-trail a {
+  color: #8CC3D0;
+}
+
+ul.nice-menu ul {
+  top: 3.8em;
+  left: -1px; /* LTR */
+  border: 0;
+  border-top: 0px solid #fff;
+  margin-right: 0; /* LTR */
+}
+ul.nice-menu .menu__item.is-collapsed {
+    list-style-image: none!important;
+    list-style-type: none!important;
+}
+ul.nice-menu ul li {
+  background: url("../images/transparent_blue2.gif") repeat scroll 0 0 transparent;
+  width: 13em; /* 12.5em; */
+}
+
+ul.nice-menu ul li a {
+  color: #462211;
+  text-align: left;
+}
+ul.nice-menu ul li a:hover {
+  color: #8CC3D0;
+}
+/******************************
+ VERTICAL (left/right) menus
+******************************/
+
+/* This is the default width of all vertical menus. */
+ul.nice-menu-right, ul.nice-menu-left,
+ul.nice-menu-right li, ul.nice-menu-left li {
+  width: 12.5em;
+}
+
+/* VERTICAL menus where submenus pop RIGHT (default). */
+ul.nice-menu-right ul {
+  width: 12.5em;
+  left: 12.5em;
+  top: -1px;
+}
+
+ul.nice-menu-right ul ul {
+  width: 12.5em;
+  left: 12.5em;
+  top: -1px;
+}
+
+ul.nice-menu-right li.menuparent,
+ul.nice-menu-right li li.menuparent {
+  background: #eee url(arrow-right.png) right center no-repeat;
+}
+
+ul.nice-menu-right li.menuparent:hover,
+ul.nice-menu-right li li.menuparent:hover {
+  background: #ccc url(arrow-right.png) right center no-repeat;
+}
+
+/* VERTICAL menus where submenus pop LEFT. */
+ul.nice-menu-left li ul {
+  width: 12.5em;
+  left: -12.65em;
+  top: -1px;
+}
+
+ul.nice-menu-left li ul li ul {
+  width: 12.5em;
+  left: -12.65em;
+  top: -1px;
+}
+
+ul.nice-menu-left li.menuparent,
+ul.nice-menu-left li li.menuparent {
+  background: #eee url(arrow-left.png) left center no-repeat;
+}
+
+ul.nice-menu-left li.menuparent:hover,
+ul.nice-menu-left li li.menuparent:hover {
+  background: #ccc url(arrow-left.png) left center no-repeat;
+}
+
+ul.nice-menu-left a, ul.nice-menu-left ul a {
+  padding-left: 14px;
+}
+
+/******************************
+ HORIZONTAL (down) menus
+******************************/
+
+ul.nice-menu-down {
+  float: none; /* LTR */
+  background: none repeat scroll 0 0 #FFFFFF;
+  border: 0;
+  border-bottom: 12px solid #8CC3D0;
+  margin: 0 auto !important;
+  width: 930px;
+}
+.not-front ul.nice-menu-down {
+  float: none; /* LTR */
+  background: none repeat scroll 0 0 #FFFFFF;
+  border: 0;
+  border-bottom: 10px solid #8CC3D0;
+  margin: 0 auto !important;
+  width: 890px;
+}
+
+ul.nice-menu-down li {
+  border-top: none;
+}
+
+ul.nice-menu-down li li {
+  border-top: 0;
+}
+
+ul.nice-menu-down ul {
+  left: 0; /* LTR */
+}
+
+ul.nice-menu-down ul li {
+  border-left: 1px #8CC3D0 solid;
+  border-right: 1px #8CC3D0 solid;
+  clear: both;
+  font-size: 1em!important;
+  height: 1.75em !important;
+  left: 1em;
+  text-transform: capitalize !important;
+}
+ul.nice-menu-down ul li.first {
+  border-top: 0px #462211 solid;
+}
+ul.nice-menu-down ul li.last {
+  border-bottom: 1px #8CC3D0 solid;
+}
+ul.nice-menu-down ul li a {
+  font-size: 0.85em;
+  padding: 5px;
+  top: 0;
+}
+
+ul.nice-menu-down li ul li ul {
+  left: 13.9em; /* LTR */
+  top: -1px;
+}
+
+ul.nice-menu-down .menuparent a {
+/*  padding-right: 15px;  LTR */
+}
+
+ul.nice-menu-down li.menuparent {
+  /*background: #FFF url(../images/arrow-down.png) right center no-repeat; LTR */
+  background: #FFF none right center no-repeat; /* LTR */
+}
+
+ul.nice-menu-down li.menuparent:hover {
+  /*background: #fff url(../images/arrow-down.png) right center no-repeat; LTR */
+  background: #fff none right center no-repeat; /* LTR */
+}
+
+ul.nice-menu-down li li.menuparent {
+  background: #FFFFFF url(../images/arrow-right.png) right center no-repeat; /* LTR */
+  background: url("../images/transparent_blue2.gif") repeat scroll 0 0 transparent;
+ 
+}
+ul.nice-menu-down li li.menuparent a {
+  background: transparent url(../images/arrow-right.png) right center no-repeat; /* LTR */
+}
+ul.nice-menu-down li li.menuparent ul li a {
+  background: none; /* LTR */
+}
+
+ul.nice-menu-down li li.menuparent:hover {
+  background: #FFFFFF url(../images/arrow-right.png) right center no-repeat; /* LTR */
+  background: url("../images/transparent_blue2.gif") repeat scroll 0 0 transparent;
+
+}
+
+/******************************
+ Garland-specific CSS
+******************************/
+
+/**
+ * Global CSS for ALL menu types
+ */
+ul.nice-menu li {
+  margin: 0;
+  padding-left: 0; /* LTR */
+  background-image: none;
+}
+
+#header-region ul.nice-menu li {
+  margin: 0;
+  /* Padding rules are needed to deal with Garland's header line-height. */
+  padding-top: 0.1em;
+  padding-bottom: 0.1em;
+  background: #fff;
+}
+
+#header-region ul.nice-menu ul {
+  top: 1.8em;
+  left: -1px; /* LTR */
+  border: 0;
+  border-top: 1px solid #fff;
+  margin-right: 0; /* LTR */
+}
+
+#header-region ul.nice-menu ul {
+  top: 1.7em;
+}
+
+/**
+ * HORIZONTAL (down) menus
+ */
+#header-region ul.nice-menu-down li ul li ul {
+  left: 12.5em; /* LTR */
+  top: -1px;
+}
+
+#header-region ul.nice-menu-down li.menuparent {
+  background: #fff url(arrow-down.png) right center no-repeat; /* LTR */
+}
+
+#header-region ul.nice-menu-down li.menuparent:hover {
+  background: #fff url(arrow-down.png) right center no-repeat; /* LTR */
+}
+
+#header-region ul.nice-menu-down li li.menuparent {
+  background: #fff url(arrow-right.png) right center no-repeat; /* LTR */
+}
+
+#header-region ul.nice-menu-down li li.menuparent:hover {
+  background: #fff url(arrow-right.png) right center no-repeat; /* LTR */
+}
+/* Sub Menu in columns */
+/*ul.nice-menu-down .menu-path-taxonomy-term-1 ul li.even,
+ul.nice-menu-down .menu-path-taxonomy-term-4 ul li.even,*/
+ul.nice-menu-down .menu-path-taxonomy-term-2 ul li.even,
+ul.nice-menu-down .menu-path-taxonomy-term-3 ul li.even,
+ul.nice-menu-down .menu-path-taxonomy-term-5 ul li.even {
+  border-left: 1px dashed #8CC3D0;
+  left: 14em;
+  position: relative;
+  top: -1.75em;
+  margin-bottom: -1.75em;
+}
+ul.nice-menu li.menu-path-taxonomy-term-1 ul li {
+  width: 10em; /* 12.5em; */
+}
+/*ul.nice-menu-down .menu-path-taxonomy-term-1 ul li.even {
+  left: 11em;	
+}*/
+ul.nice-menu li.menu-path-taxonomy-term-2 ul li {
+  width: 11em; /* 12.5em; */
+}
+ul.nice-menu-down .menu-path-taxonomy-term-2 ul li.even {
+  left: 12em;	
+}
+ul.nice-menu li.menu-path-taxonomy-term-3 ul li.odd {
+  width: 15em; /* 12.5em; */
+}
+ul.nice-menu-down .menu-path-taxonomy-term-3 ul li.even {
+  left: 16em;
+  width: 17em;
+}
+ul.nice-menu-down .menu-path-taxonomy-term-3 ul li ul li.first {
+  border-top: 1px #8CC3D0 solid;
+}
+ul.nice-menu-down .menu-path-taxonomy-term-3 ul li ul li.last {
+  border-bottom: 1px #8CC3D0 solid;
+}
+ul.nice-menu-down .menu-path-taxonomy-term-3 ul li ul li.odd {
+  background: #ffffff;
+  border-left: 1px #8CC3D0 solid;
+  border-right: 1px #8CC3D0 solid;
+  left: 0;
+  width: 15em; /* 12.5em; */
+}
+ul.nice-menu-down .menu-path-taxonomy-term-3 ul li ul li.even {
+  background: #ffffff;
+  border-left: 1px #8CC3D0 solid;
+  border-right: 1px #8CC3D0 solid;
+  left: 0em;
+  position: relative;
+  top: 0em;
+  margin-bottom: 0em;
+  width: 15em; /* 12.5em; */
+}
+ul.nice-menu-down .menu-path-taxonomy-term-5 ul li.even {
+  width: 15em; /* 12.5em; */
+}
