@@ -107,7 +107,7 @@ $zen-auto-include-grid-item-base: false;
   }  
   #block-views-homepage-images-block {
     @include zen-grid-container($context: grid-item);
-    @include zen-grid-item(3, 1);
+    @include zen-grid-item(4, 1);
     display: block;
   }
   #block-block-17 {
