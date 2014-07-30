@@ -57,9 +57,8 @@ ul.nice-menu .menu__item.is-collapsed {
 }
 ul.nice-menu ul li {
   background: url("../images/transparent_blue2.gif") repeat scroll 0 0 transparent;
-  width: 13em!important; /* 12.5em; */
-  margin-left: 0!important;
-  margin-right: 0!important;
+  width: 13em; /* 12.5em; */
+  margin-left: 0;
 }
 
 ul.nice-menu ul li a {
@@ -289,23 +288,23 @@ ul.nice-menu-down .menu-path-taxonomy-term-5 ul li.even {
   margin-bottom: -1.75em;
 }
 ul.nice-menu li.menu-path-taxonomy-term-1 ul li {
-  width: 10em; /* 12.5em; */
+  width: 10em!important; /* 12.5em; */
 }
 /*ul.nice-menu-down .menu-path-taxonomy-term-1 ul li.even {
   left: 11em;	
 }*/
 ul.nice-menu li.menu-path-taxonomy-term-2 ul li {
-  width: 11em; /* 12.5em; */
+  width: 11em!important; /* 12.5em; */
 }
 ul.nice-menu-down .menu-path-taxonomy-term-2 ul li.even {
-  left: 12em;	
+  left: 12em!important;	
 }
 ul.nice-menu li.menu-path-taxonomy-term-3 ul li.odd {
-  width: 15em; /* 12.5em; */
+  width: 15em!important; /* 12.5em; */
 }
 ul.nice-menu-down .menu-path-taxonomy-term-3 ul li.even {
   left: 16em;
-  width: 17em;
+  width: 17em!important;
 }
 ul.nice-menu-down .menu-path-taxonomy-term-3 ul li ul li.first {
   border-top: 1px #8CC3D0 solid;
@@ -318,7 +317,7 @@ ul.nice-menu-down .menu-path-taxonomy-term-3 ul li ul li.odd {
   border-left: 1px #8CC3D0 solid;
   border-right: 1px #8CC3D0 solid;
   left: 0;
-  width: 15em; /* 12.5em; */
+  width: 15em!important; /* 12.5em; */
 }
 ul.nice-menu-down .menu-path-taxonomy-term-3 ul li ul li.even {
   background: #ffffff;
@@ -328,8 +327,8 @@ ul.nice-menu-down .menu-path-taxonomy-term-3 ul li ul li.even {
   position: relative;
   top: 0em;
   margin-bottom: 0em;
-  width: 15em; /* 12.5em; */
+  width: 15em!important; /* 12.5em; */
 }
 ul.nice-menu-down .menu-path-taxonomy-term-5 ul li.even {
-  width: 15em; /* 12.5em; */
+  width: 15em!important; /* 12.5em; */
 }
