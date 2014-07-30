@@ -3487,37 +3487,3 @@ h3.title {
   font-style: italic;
   padding-left: 1em;
 }
-
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/_keils\.scss}line{font-family:\00003674}}
-.mean-container .mean-bar {
-  background: none repeat scroll 0 0 #8cc3d0;
-  float: left;
-  min-height: 42px;
-  padding: 4px 0;
-  position: relative;
-  width: 100%;
-  z-index: 999999;
-}
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/_keils\.scss}line{font-family:\00003683}}
-.mean-container a.meanmenu-reveal {
-  z-index: 99;
-}
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/_keils\.scss}line{font-family:\00003686}}
-.mean-container .mean-nav {
-  background: none repeat scroll 0 0 #8cc3d0;
-  float: left;
-  margin-top: 33px;
-  width: 100%;
-}
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/_keils\.scss}line{font-family:\00003691}}
-.mean-container .mean-nav h2 {
-  color: white;
-  font-size: 1.5em;
-  line-height: 1em;
-  margin: auto;
-  position: absolute;
-  text-align: center;
-  text-transform: uppercase;
-  top: 13px;
-  width: 100%;
-}
