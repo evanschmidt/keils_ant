@@ -278,7 +278,7 @@ $zen-auto-include-grid-item-base: false;
   .views-responsive-grid {
     @include zen-grid-item-base();
     @include zen-grid-container();
-    @include zen-grid-background();
+    //@include zen-grid-background();
   }
   .views-responsive-grid.views-columns-2 {
     $zen-columns:  2 !global;
@@ -533,7 +533,7 @@ $zen-auto-include-grid-item-base: false;
   .views-responsive-grid {
     @include zen-grid-item-base();
     @include zen-grid-container();
-    @include zen-grid-background();
+    //@include zen-grid-background();
   }
   .views-responsive-grid .views-row {
     @include zen-new-row();
