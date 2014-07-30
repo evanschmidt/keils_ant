@@ -3488,6 +3488,10 @@ h3.title {
   padding-left: 1em;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/_keils\.scss}line{font-family:\00003674}}
+.mean-container .mean-bar {
+  background: none repeat scroll 0 0 transparent;
+}
 @media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/_keils\.scss}line{font-family:\00003677}}
 .mean-container a.meanmenu-reveal {
   background: none repeat scroll 0 0 #462211;
