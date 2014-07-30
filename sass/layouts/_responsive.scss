@@ -192,6 +192,10 @@ $zen-auto-include-grid-item-base: false;
   li:nth-child(7) {
     @include zen-grid-item(1, 7);
   }
+  ul.nice-menu ul li {
+    margin-left: 0;
+    width: 13em
+  }
 }
 
 
@@ -466,6 +470,7 @@ $zen-auto-include-grid-item-base: false;
   }
   ul.nice-menu ul li {
     margin-left: 0;
+    width: 13em
   }
 }
 
