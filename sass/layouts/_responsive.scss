@@ -464,6 +464,11 @@ $zen-auto-include-grid-item-base: false;
   li:nth-child(7) {
     @include zen-grid-item(1, 7);
   }
+  ul.nice-menu ul li {
+    border: medium none;
+    margin-left: 0;
+    width: 15em;
+  }
 }
 
 
