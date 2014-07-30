@@ -57,7 +57,7 @@ ul.nice-menu .menu__item.is-collapsed {
 }
 ul.nice-menu ul li {
   background: url("../images/transparent_blue2.gif") repeat scroll 0 0 transparent;
-  width: 13em; /* 12.5em; */
+  width: 13em!important; /* 12.5em; */
   margin-left: 0!important;
 }
 
