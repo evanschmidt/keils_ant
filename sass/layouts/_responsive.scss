@@ -151,48 +151,49 @@ $zen-auto-include-grid-item-base: false;
     //@include zen-grid-background();
   }
   #dhtml_menu-377 {
-    @include zen-grid-item(1, 1);    
+    //@include zen-grid-item(1, 1);    
   }
-  #dhtml_menu-3632 {
-    @include zen-grid-item(1, 2);    
+  #dhtml_menu-3793 {
+    //@include zen-grid-item(1, 2);    
   }
-  #dhtml_menu-3638 {
-    @include zen-grid-item(1, 3);    
+  #dhtml_menu-3799 {
+    //@include zen-grid-item(1, 3);    
   }
-  #dhtml_menu-3671 {
-    @include zen-grid-item(1, 4);    
+  #dhtml_menu-3832 {
+    //@include zen-grid-item(1, 4);    
   }
-  #dhtml_menu-3683 {
-    @include zen-grid-item(1, 5);    
+  #dhtml_menu-3844 {
+    //@include zen-grid-item(1, 5);    
   }
-  #dhtml_menu-3690 {
-    @include zen-grid-item(1, 6);    
+  #dhtml_menu-3851 {
+    //@include zen-grid-item(1, 6);    
   }
   #dhtml_menu-385 {
-    @include zen-grid-item(1, 7);    
+    //@include zen-grid-item(1, 7);    
   }
   li:nth-child(1) {
-    //@include zen-grid-item(1, 1);
+    @include zen-grid-item(1, 1);
   }
   li:nth-child(2) {
-    //@include zen-grid-item(1, 2);
+    @include zen-grid-item(1, 2);
   }
   li:nth-child(3) {
-    //@include zen-grid-item(1, 3);
+    @include zen-grid-item(1, 3);
   }
   li:nth-child(4) {
-    //@include zen-grid-item(1, 4);
+    @include zen-grid-item(1, 4);
   }
   li:nth-child(5) {
-    //@include zen-grid-item(1, 5);
+    @include zen-grid-item(1, 5);
   }
   li:nth-child(6) {
-    //@include zen-grid-item(1, 6);
+    @include zen-grid-item(1, 6);
   }
   li:nth-child(7) {
-    //@include zen-grid-item(1, 7);
+    @include zen-grid-item(1, 7);
   }
 }
+
 
   /**
    * The layout when there is only one sidebar, the left one.
@@ -422,46 +423,46 @@ $zen-auto-include-grid-item-base: false;
      }
   }
   #dhtml_menu-377 {
-    @include zen-grid-item(1, 1);    
+    //@include zen-grid-item(1, 1);    
   }
-  #dhtml_menu-3632 {
-    @include zen-grid-item(1, 2);    
+  #dhtml_menu-3793 {
+    //@include zen-grid-item(1, 2);    
   }
-  #dhtml_menu-3638 {
-    @include zen-grid-item(1, 3);    
+  #dhtml_menu-3799 {
+    //@include zen-grid-item(1, 3);    
   }
-  #dhtml_menu-3671 {
-    @include zen-grid-item(1, 4);    
+  #dhtml_menu-3832 {
+    //@include zen-grid-item(1, 4);    
   }
-  #dhtml_menu-3683 {
-    @include zen-grid-item(1, 5);    
+  #dhtml_menu-3844 {
+    //@include zen-grid-item(1, 5);    
   }
-  #dhtml_menu-3690 {
-    @include zen-grid-item(1, 6);    
+  #dhtml_menu-3851 {
+    //@include zen-grid-item(1, 6);    
   }
   #dhtml_menu-385 {
-    @include zen-grid-item(1, 7);    
+    //@include zen-grid-item(1, 7);    
   }
   li:nth-child(1) {
-    //@include zen-grid-item(1, 1);
+    @include zen-grid-item(1, 1);
   }
   li:nth-child(2) {
-    //@include zen-grid-item(1, 2);
+    @include zen-grid-item(1, 2);
   }
   li:nth-child(3) {
-    //@include zen-grid-item(1, 3);
+    @include zen-grid-item(1, 3);
   }
   li:nth-child(4) {
-    //@include zen-grid-item(1, 4);
+    @include zen-grid-item(1, 4);
   }
   li:nth-child(5) {
-    //@include zen-grid-item(1, 5);
+    @include zen-grid-item(1, 5);
   }
   li:nth-child(6) {
-    //@include zen-grid-item(1, 6);
+    @include zen-grid-item(1, 6);
   }
   li:nth-child(7) {
-    //@include zen-grid-item(1, 7);
+    @include zen-grid-item(1, 7);
   }
 }
 
