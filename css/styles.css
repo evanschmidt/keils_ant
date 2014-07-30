@@ -3526,13 +3526,14 @@ h3.title {
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/_keils\.scss}line{font-family:\00003703}}
 .mean-container .mean-nav ul li a {
+  color: #8cc3d0;
   background: none repeat scroll 0 0 #462211;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/_keils\.scss}line{font-family:\00003706}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/_keils\.scss}line{font-family:\00003707}}
 .mean-container .mean-nav ul li a:hover {
   background: none repeat scroll 0 0 #462211;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/_keils\.scss}line{font-family:\00003709}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/_keils\.scss}line{font-family:\00003710}}
 .mean-container .mean-nav ul li a.mean-expand:hover {
   background: none repeat scroll 0 0 #462211;
 }
