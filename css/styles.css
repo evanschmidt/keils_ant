@@ -3573,3 +3573,8 @@ h3.title {
 .mean-container .mean-nav ul li a.mean-expand:hover {
   background: none repeat scroll 0 0 #8cc3d0;
 }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/_keils\.scss}line{font-family:\00003713}}
+#block-block-18 p {
+  margin: 0;
+}
