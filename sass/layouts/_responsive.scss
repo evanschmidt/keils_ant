@@ -145,9 +145,10 @@ $zen-auto-include-grid-item-base: false;
   #nice-menu-1 {
     $zen-columns: 7 !global;
     $zen-gutters:  0 !global;
-    height: $nav-height;
     @include zen-grid-container($context: flow);
     @include zen-grid-item(7, 1, $columns: 7);
+    height: $nav-height;
+    font-size: 0.85em;
     //@include zen-grid-background();
   }
   #dhtml_menu-377 {
