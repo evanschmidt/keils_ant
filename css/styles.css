@@ -3490,7 +3490,7 @@ h3.title {
 }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/_keils\.scss}line{font-family:\00003672}}
-input.custom-search-default-value {
+.search-form input {
   color: #999;
   font-weight: normal;
 }
