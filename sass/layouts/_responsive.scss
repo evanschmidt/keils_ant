@@ -62,8 +62,7 @@ $zen-auto-include-grid-item-base: false;
 }
 #block-block-1,
 #block-search-form {
-  display: block;
-  text-align: center;
+  float: none;
 }
 /* Navigation bar */
 @media all and (min-width: 480px) {
