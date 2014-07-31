@@ -60,6 +60,11 @@ $zen-auto-include-grid-item-base: false;
 #block-block-3 {
   display: none;
 }
+#block-block-1,
+#block-search-form {
+  display: block;
+  text-align: center;
+}
 /* Navigation bar */
 @media all and (min-width: 480px) {
   #main {
