@@ -96,13 +96,33 @@ $zen-auto-include-grid-item-base: false;
   #header {
     #block-block-1 {
       @include zen-grid-item(1, 1);      
+      p {
+        bottom: 0;
+        left: 30px;
+        margin: 0;
+        padding: 1em;
+        position: absolute;
+      }
     }
     #logo {
       @include zen-grid-item(2, 2);
       text-align: center;
+      margin-top: 1.5em;
+      margin-bottom: 1.5em;
     }
     #block-search-form {
       @include zen-grid-item(1, 4);      
+      text-align: right;
+    .search-form {
+      bottom: 0;
+      margin: 1em;
+      position: absolute;
+      right: 0;
+    }
+    .form-submit {
+      position: relative;
+      top: 6px;
+    }
     }
   }  
   #block-views-homepage-images-block {
