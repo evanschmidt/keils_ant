@@ -63,7 +63,12 @@ $zen-auto-include-grid-item-base: false;
 #block-block-1,
 #block-search-form {
   float: none;
-  margin: 1em auto;
+  text-align: center;
+  margin: 1em;
+  .form-submit {
+    top: 0;
+  }
+
 }
 /* Navigation bar */
 @media all and (min-width: 480px) {
