@@ -170,6 +170,9 @@ $zen-auto-include-grid-item-base: false;
     height: $nav-height;
     font-size: 0.85em;
     //@include zen-grid-background();
+    li {
+      border: 1px solid;
+    }
   }
   #dhtml_menu-377 {
     //@include zen-grid-item(1, 1);    
