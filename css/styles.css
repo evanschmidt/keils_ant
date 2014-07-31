@@ -1273,7 +1273,7 @@ table {
 @media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003360}}
   #header #block-search-form .search-form {
     bottom: 0;
-    margin: 1em;
+    margin: 0.5em 1em;
     position: absolute;
     right: 0;
   }
