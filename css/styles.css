@@ -3520,3 +3520,38 @@ h3.title {
   font-weight: normal;
   line-height: 0.875em;
 }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/_keils\.scss}line{font-family:\00003684}}
+.mean-container a.meanmenu-reveal {
+  background: none repeat scroll 0 0 #462211;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/_keils\.scss}line{font-family:\00003686}}
+.mean-container a.meanmenu-reveal span {
+  background: none repeat scroll 0 0 #FFFFFF;
+  display: block;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/_keils\.scss}line{font-family:\00003690}}
+.mean-container a.meanmenu-reveal span.mean-head {
+  background: none repeat scroll 0 0 transparent;
+  color: #8cc3d0;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/_keils\.scss}line{font-family:\00003695}}
+.mean-container .mean-nav {
+  background: none repeat scroll 0 0 #462211;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/_keils\.scss}line{font-family:\00003697}}
+.mean-container .mean-nav h2 {
+  color: white;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/_keils\.scss}line{font-family:\00003700}}
+.mean-container .mean-nav ul li a {
+  background: none repeat scroll 0 0 #462211;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/_keils\.scss}line{font-family:\00003703}}
+.mean-container .mean-nav ul li a:hover {
+  background: none repeat scroll 0 0 #8cc3d0;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/_keils\.scss}line{font-family:\00003706}}
+.mean-container .mean-nav ul li a.mean-expand:hover {
+  background: none repeat scroll 0 0 #8cc3d0;
+}
