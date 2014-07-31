@@ -895,6 +895,9 @@ table {
     *margin-right: -99.9%;
     height: 3.5em;
     font-size: 0.85em;
+    background: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAARVJREFUeNpi/P//PwMMMDIyMpALYOawEKEWpIYPiAWg7M9A/B6If4LMwaaYkGHiQKwFxJpAzA3E94H4LBA/BOJfWJ0Kw0iAFYhFgFgHiIOBuPHGjRtvf//+/X/WrFmHgHxPqIsxzGHC4TJ+IDYCYu+EhIQ4oGG5ysrKQiCJX79+cQApXqilDMR6mROI5Z8+fVotJibGS0rk4HLhd1AYSUtLd8rLyy/78uXLb0oN/AjE54D44LNnz27euXPnHaUGglz0BoifAvEHaniZbDBq4BA0EJR8vjAxMf2FCbCxsf2AljhYEzsjgfIQlKe1gVgPiCWAGGTwbWylDcwcQgayQIssASj9D5qLMMpDYg0kucSmeqQABBgAsyJrV7MArsMAAAAASUVORK5CYII=") 7.14286% top no-repeat, url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAbBJREFUeNqslL1Kw1AUx5O2ih8BsWoRAw6SgAHJKvQFunWqQ18gs5Oj4DP4DuLomqWTjhVEKYVapDRBrdXUqtU2avyfelNCbGwTvfDj9N5L/j1f9/CO43C0eJ7n/rIGOgGCk2ABzIEJ73fgDbTAI7DHEYwDEWyCdTDtEfwAFrgAp6DpF+z/GGy+FwmkNU07sG3b8WMYxhPut8GaP2QiFiFXFMqMLxU/lT2LQl4FW2AX7IPDUqnUIg/r9foz9jtAHtdDytMNOAZH4EQUxY4sy1QgrlKp3MNQ2N1hDiYCIuuBa/BCBcrn8yvuBTy9hSHR12Efjsoh5WpRVdWBYLFYNFmlIwlSxecVRUm5B4VC4QrmgfVjKEG6E0BSkqQkHVSrVatWq1Eq2izXoQSnSCybzcqCIPRbpFwuN1m4HfZqQglS/lKZTEZyD0zTtNiz6/4WVtCaBUvI37J7oOv6Jcwd85Abt7HdP9qgxrYsq0cNTRb7PaAOc2TU06PzRC6XE938NRqNNvOOmvozyMGg8RXzTByFvVsqyDk4Y20Tah76Z2KcNXKLtcx7FMF/ndiRBb8EGABjzN026ymFhAAAAABJRU5ErkJggg==") 7.14286% bottom no-repeat, url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAdBJREFUeNqslL9LQlEUx3367AdamdCQaVjQ0uAQBS+hxbVBhEcESoOG/0SDS9HakDYGEU0huLa1GW4tGtkkURBlQRn4LPseOBdej0u+ygsffByvH98995zj6Ha7DqIfizyKkCmKYv1eBaPAB4ZpP3gDz/zZ+Y1wAEyBeTAH/OATPIBrUAP3oG0VOiRHVli2nslkTmu12pNhGF2iUqncxePxI3yngwDv7SkcAstYeSEy02w229FodB97NN77TeiU5NYDJlOp1KII5HK5y2QyWaZnr9frxvMSv6HH+mOZkPI3EgwGfSJQr9db5g2hUGiMZW47wg/QUlXVMAd1XQ+I50aj8cI3bUhrx5JD+ucI2ADb4DASiZyZ80j5pTzLcigTOlkaBqtgp1gs3ghZqVS6QmyTTm73lkXpTIBEOp0umm9Y07QDxFdkF/KTcBAsgC3k61UI8/n8BWJJrlOnXaEo7BQJhKxarTYR2+OiDnM1OOwWtkbFS0cUwlgsdo74MdgFa2AauOwIqW8ThUKhLOsUIpvNnmBPlIdGz06h1fH7/a6/jDDZtKEjz/ClzFrfAuudpw1d0C03wo/jS2HpOM9Da3tRd1CnPNodX/+a2H0XfgkwAIVYVeQ1/9a6AAAAAElFTkSuQmCC") 21.42857% top no-repeat, url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAcZJREFUeNqslLFLw0AUxpPWKNZag6igqYKgCA61dhScHbV0URwcCo7+DV1K5y6FTlIcdQl0dhKkdBAHsaJ1MBQdJEZNKmnQ+B3cQZte2wx98OPIu5ePe+/dO8F1XYEwDCM6I332yd4EkOkaBA74BB/AJhq8n3g2ChbAGlgBs9T3A57BDXgBTfDXdUxPygGwCPbT6fR5tVp9dRzHZRQKhWvsHYMNevIOLZ4gCdpOJpOn7ULtlMvlO8QcgnmvYICTbogEplKpTeYolUpPmUzmln3H4/ElLFO0DII3PV79IuFwOMQchmG0stlsXZIklRCNRs/gfqc1HSgogTFFUSaZIxaLyZqm7SDd3UqlsgVB0kwLtLh3x1PDZXCCZrz1qqGqqg+IOfJbwy5DDev5fP6efScSCQXLnLfLvVLuMlJDXdcdTmmCfgRJ/r+8KfBjPEFyErvRaHwPGl2/o0c692WaZpM5ZFnuuG+WZdm0y46fLg+clGKxeIWYPTDjZ/TYLB9gli9qtZrOhNAcO5fLXdIrs+qdFKIjMjFRFL3TQq7GOv1xmnbUBI+AjKHmfcL6CbL6Ruh7OE5CaH0NSotXPmHYL3ZAGLL9CzAANR4i5o9tHM8AAAAASUVORK5CYII=") 21.42857% bottom no-repeat, url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAe5JREFUeNqslM1LAkEYxnX7lL62CAmTwENkhyKwDkZg185dgvDQwS7RUQkvkRfzKNQfIF5CukjRJelk4EWwDmVUEJinaNlSMLPWnhdmYFvWGqiFH44z8z7zzjPvjKXZbFqI//hIx8rFrFarfkwCNiCDPtABNFADKngFH6KC1BgEE2ASOEE3E1DALbgCZfBuFLSYbJmC51wu1046nb5pNBpNTrFYVEKh0DHGV8AoW/xXQTsFJJPJC72YHq/Xu485Xrb4N0HJxFvybsjtdtt5Rzwev04kEvf8v9/v97CFbcbgdhPBT/AmSZLGOxRFaRgyoa22scP7VbACih6PZ5cdzAjoSqVS03xCoVB4wM8zLWxaOwYPaZEBMAXWI5HIud6/TCZTQv82mBX18MfP5/M5Y7HYAprDlLlIhpTdPNgEe+AQHOVyuSeeJZUT+taAQyRDuhnufD6/heANsBwOh8ey2ewTn+BwOPrZCXcYg80EycMeTdNa2lGpVN5ZNWgiglQitWq1Wtd3yrLcydvlclll1VAX8ZAehCUYf9rqpgQCgQPMWQS9IlePtuyiCxGNRs9UVa1zoVKpVA0GgycYWwVjrLiFnq9OFjADxlkm5NcLuAOX4NHstWklyEVlBvfvjb2HL8xri8iW//Ri/7vglwADAMZnRpCsTg8QAAAAAElFTkSuQmCC") 35.71429% top no-repeat, url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAc5JREFUeNqslM9KAlEUxp0xzSTNDHMoCiIKKRChXbgIAldKEK5y4Up9A5dufAMRRB8gwnW7lkV/EBcR0WzaBMEQFRNFlkNO34E7MU23msyBHzNz58x373fOPdeh67qDGMRFOkOccQEMg3EwBlyW7xp4AHega/2ZJ0gCM2AFLIARy/cOkMEJuAZvX5ZpsRwEyUajsa9pms4jn89vI2bVOhnpiJwVkt2JcDg82U8eeZZpEqd5IJPJHDebzVtmj3J3BBReDsU/LoAEn1keSazXl2AikQghd0mw2Wq10vF4nAo2DTx9CWaz2XnjORaLSYVCYR2Pc8BnR5BsdURR/NgO1Wr1rFKpnBvvkUiEChYCXjtFobx0U6nUHu4XxgSlUmnZCJAkycfEXHYE3dQh7XY7HY1Gp2igXC63e72e1Y2T55BnmQI9ZgG/3+/Fu5OTGltVfqFelWX5xhgIBAJuc4CiKI+4PbG+dvzWeqNgLZfL7XzXevV6/QAxG9RRVi2eIFmbBVvFYnEXK703hFRVfa3Vaoe0k8Aiy/cnQcEQEwTBWhjauEvsxAmyicjmJTgFVyw9uh1BYwf4KYXsVBFYu6nsPOyaxX6y/K8TW3QM+HoXYACXiuXQRCn2XAAAAABJRU5ErkJggg==") 35.71429% bottom no-repeat, url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAW5JREFUeNqslDFLw0AYhpOaSFuiDjqViiUKVhACDpJCQycX/TVChCz+Evf8ALtlCGZyCW6uOiR4QusgSgtmiO/BBZJ4l1qSg4dwd19e7vvuvU9K01SiNDGojpyJybLMi9kEu2AHqGwtAZ/gA/ysI6iAPjgHx6DD1pfgGTwCUhaUKlLeBheO49wnSZLmwfotGPJSblWUZAscmKY55Ox1ciUoDJGgwmrXm0wmg3UuRiTYpWK2bY80TVN93yd1BWm6/fF4fEgnQRDM6ggW0iWELKbT6byOYCFdz/OIwJ9d3sW0BOn2LMvS6cR13TeBpfaZ4f96p+TDI3ATRdF32X8ZcRx/IeYa6P/x4YbIY7kfZZEXeYL0rS7wFIUdg+0tWWxxj/OW98AZOM0ag2EYgzAMr7IAVVXv8PHAA5jnU1Y4B6Cd5Am8sJvU2+32ZSnmHbyy2JUnLOzTGwcjcMLqVtltVgnyemJlP5Sa7tiNC/4KMAAbxb+98QKR2gAAAABJRU5ErkJggg==") 50% top no-repeat, url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAW5JREFUeNqslDFLw0AYhpOaSFuiDjqViiUKVhACDpJCQycX/TVChCz+Evf8ALtlCGZyCW6uOiR4QusgSgtmiO/BBZJ4l1qSg4dwd19e7vvuvU9K01SiNDGojpyJybLMi9kEu2AHqGwtAZ/gA/ysI6iAPjgHx6DD1pfgGTwCUhaUKlLeBheO49wnSZLmwfotGPJSblWUZAscmKY55Ox1ciUoDJGgwmrXm0wmg3UuRiTYpWK2bY80TVN93yd1BWm6/fF4fEgnQRDM6ggW0iWELKbT6byOYCFdz/OIwJ9d3sW0BOn2LMvS6cR13TeBpfaZ4f96p+TDI3ATRdF32X8ZcRx/IeYa6P/x4YbIY7kfZZEXeYL0rS7wFIUdg+0tWWxxj/OW98AZOM0ag2EYgzAMr7IAVVXv8PHAA5jnU1Y4B6Cd5Am8sJvU2+32ZSnmHbyy2JUnLOzTGwcjcMLqVtltVgnyemJlP5Sa7tiNC/4KMAAbxb+98QKR2gAAAABJRU5ErkJggg==") 50% bottom no-repeat, url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAc5JREFUeNqslM9KAlEUxp0xzSTNDHMoCiIKKRChXbgIAldKEK5y4Up9A5dufAMRRB8gwnW7lkV/EBcR0WzaBMEQFRNFlkNO34E7MU23msyBHzNz58x373fOPdeh67qDGMRFOkOccQEMg3EwBlyW7xp4AHega/2ZJ0gCM2AFLIARy/cOkMEJuAZvX5ZpsRwEyUajsa9pms4jn89vI2bVOhnpiJwVkt2JcDg82U8eeZZpEqd5IJPJHDebzVtmj3J3BBReDsU/LoAEn1keSazXl2AikQghd0mw2Wq10vF4nAo2DTx9CWaz2XnjORaLSYVCYR2Pc8BnR5BsdURR/NgO1Wr1rFKpnBvvkUiEChYCXjtFobx0U6nUHu4XxgSlUmnZCJAkycfEXHYE3dQh7XY7HY1Gp2igXC63e72e1Y2T55BnmQI9ZgG/3+/Fu5OTGltVfqFelWX5xhgIBAJuc4CiKI+4PbG+dvzWeqNgLZfL7XzXevV6/QAxG9RRVi2eIFmbBVvFYnEXK703hFRVfa3Vaoe0k8Aiy/cnQcEQEwTBWhjauEvsxAmyicjmJTgFVyw9uh1BYwf4KYXsVBFYu6nsPOyaxX6y/K8TW3QM+HoXYACXiuXQRCn2XAAAAABJRU5ErkJggg==") 64.28571% top no-repeat, url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAe5JREFUeNqslM1LAkEYxnX7lL62CAmTwENkhyKwDkZg185dgvDQwS7RUQkvkRfzKNQfIF5CukjRJelk4EWwDmVUEJinaNlSMLPWnhdmYFvWGqiFH44z8z7zzjPvjKXZbFqI//hIx8rFrFarfkwCNiCDPtABNFADKngFH6KC1BgEE2ASOEE3E1DALbgCZfBuFLSYbJmC51wu1046nb5pNBpNTrFYVEKh0DHGV8AoW/xXQTsFJJPJC72YHq/Xu485Xrb4N0HJxFvybsjtdtt5Rzwev04kEvf8v9/v97CFbcbgdhPBT/AmSZLGOxRFaRgyoa22scP7VbACih6PZ5cdzAjoSqVS03xCoVB4wM8zLWxaOwYPaZEBMAXWI5HIud6/TCZTQv82mBX18MfP5/M5Y7HYAprDlLlIhpTdPNgEe+AQHOVyuSeeJZUT+taAQyRDuhnufD6/heANsBwOh8ey2ewTn+BwOPrZCXcYg80EycMeTdNa2lGpVN5ZNWgiglQitWq1Wtd3yrLcydvlclll1VAX8ZAehCUYf9rqpgQCgQPMWQS9IlePtuyiCxGNRs9UVa1zoVKpVA0GgycYWwVjrLiFnq9OFjADxlkm5NcLuAOX4NHstWklyEVlBvfvjb2HL8xri8iW//Ri/7vglwADAMZnRpCsTg8QAAAAAElFTkSuQmCC") 64.28571% bottom no-repeat, url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAcZJREFUeNqslLFLw0AUxpPWKNZag6igqYKgCA61dhScHbV0URwcCo7+DV1K5y6FTlIcdQl0dhKkdBAHsaJ1MBQdJEZNKmnQ+B3cQZte2wx98OPIu5ePe+/dO8F1XYEwDCM6I332yd4EkOkaBA74BB/AJhq8n3g2ChbAGlgBs9T3A57BDXgBTfDXdUxPygGwCPbT6fR5tVp9dRzHZRQKhWvsHYMNevIOLZ4gCdpOJpOn7ULtlMvlO8QcgnmvYICTbogEplKpTeYolUpPmUzmln3H4/ElLFO0DII3PV79IuFwOMQchmG0stlsXZIklRCNRs/gfqc1HSgogTFFUSaZIxaLyZqm7SDd3UqlsgVB0kwLtLh3x1PDZXCCZrz1qqGqqg+IOfJbwy5DDev5fP6efScSCQXLnLfLvVLuMlJDXdcdTmmCfgRJ/r+8KfBjPEFyErvRaHwPGl2/o0c692WaZpM5ZFnuuG+WZdm0y46fLg+clGKxeIWYPTDjZ/TYLB9gli9qtZrOhNAcO5fLXdIrs+qdFKIjMjFRFL3TQq7GOv1xmnbUBI+AjKHmfcL6CbL6Ruh7OE5CaH0NSotXPmHYL3ZAGLL9CzAANR4i5o9tHM8AAAAASUVORK5CYII=") 78.57143% top no-repeat, url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAdBJREFUeNqslL9LQlEUx3367AdamdCQaVjQ0uAQBS+hxbVBhEcESoOG/0SDS9HakDYGEU0huLa1GW4tGtkkURBlQRn4LPseOBdej0u+ygsffByvH98995zj6Ha7DqIfizyKkCmKYv1eBaPAB4ZpP3gDz/zZ+Y1wAEyBeTAH/OATPIBrUAP3oG0VOiRHVli2nslkTmu12pNhGF2iUqncxePxI3yngwDv7SkcAstYeSEy02w229FodB97NN77TeiU5NYDJlOp1KII5HK5y2QyWaZnr9frxvMSv6HH+mOZkPI3EgwGfSJQr9db5g2hUGiMZW47wg/QUlXVMAd1XQ+I50aj8cI3bUhrx5JD+ucI2ADb4DASiZyZ80j5pTzLcigTOlkaBqtgp1gs3ghZqVS6QmyTTm73lkXpTIBEOp0umm9Y07QDxFdkF/KTcBAsgC3k61UI8/n8BWJJrlOnXaEo7BQJhKxarTYR2+OiDnM1OOwWtkbFS0cUwlgsdo74MdgFa2AauOwIqW8ThUKhLOsUIpvNnmBPlIdGz06h1fH7/a6/jDDZtKEjz/ClzFrfAuudpw1d0C03wo/jS2HpOM9Da3tRd1CnPNodX/+a2H0XfgkwAIVYVeQ1/9a6AAAAAElFTkSuQmCC") 78.57143% bottom no-repeat, url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAbBJREFUeNqslL1Kw1AUx5O2ih8BsWoRAw6SgAHJKvQFunWqQ18gs5Oj4DP4DuLomqWTjhVEKYVapDRBrdXUqtU2avyfelNCbGwTvfDj9N5L/j1f9/CO43C0eJ7n/rIGOgGCk2ABzIEJ73fgDbTAI7DHEYwDEWyCdTDtEfwAFrgAp6DpF+z/GGy+FwmkNU07sG3b8WMYxhPut8GaP2QiFiFXFMqMLxU/lT2LQl4FW2AX7IPDUqnUIg/r9foz9jtAHtdDytMNOAZH4EQUxY4sy1QgrlKp3MNQ2N1hDiYCIuuBa/BCBcrn8yvuBTy9hSHR12Efjsoh5WpRVdWBYLFYNFmlIwlSxecVRUm5B4VC4QrmgfVjKEG6E0BSkqQkHVSrVatWq1Eq2izXoQSnSCybzcqCIPRbpFwuN1m4HfZqQglS/lKZTEZyD0zTtNiz6/4WVtCaBUvI37J7oOv6Jcwd85Abt7HdP9qgxrYsq0cNTRb7PaAOc2TU06PzRC6XE938NRqNNvOOmvozyMGg8RXzTByFvVsqyDk4Y20Tah76Z2KcNXKLtcx7FMF/ndiRBb8EGABjzN026ymFhAAAAABJRU5ErkJggg==") 92.85714% top no-repeat, url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAARVJREFUeNpi/P//PwMMMDIyMpALYOawEKEWpIYPiAWg7M9A/B6If4LMwaaYkGHiQKwFxJpAzA3E94H4LBA/BOJfWJ0Kw0iAFYhFgFgHiIOBuPHGjRtvf//+/X/WrFmHgHxPqIsxzGHC4TJ+IDYCYu+EhIQ4oGG5ysrKQiCJX79+cQApXqilDMR6mROI5Z8+fVotJibGS0rk4HLhd1AYSUtLd8rLyy/78uXLb0oN/AjE54D44LNnz27euXPnHaUGglz0BoifAvEHaniZbDBq4BA0EJR8vjAxMf2FCbCxsf2AljhYEzsjgfIQlKe1gVgPiCWAGGTwbWylDcwcQgayQIssASj9D5qLMMpDYg0kucSmeqQABBgAsyJrV7MArsMAAAAASUVORK5CYII=") 92.85714% bottom no-repeat, -moz-linear-gradient(left, rgba(0, 0, 0, 0) 0%, #ffdede 0%, #ffdede 14.28571%, rgba(0, 0, 0, 0) 14.28571%, rgba(0, 0, 0, 0) 14.28571%, #ffdede 14.28571%, #ffdede 28.57143%, rgba(0, 0, 0, 0) 28.57143%, rgba(0, 0, 0, 0) 28.57143%, #ffdede 28.57143%, #ffdede 42.85714%, rgba(0, 0, 0, 0) 42.85714%, rgba(0, 0, 0, 0) 42.85714%, #ffdede 42.85714%, #ffdede 57.14286%, rgba(0, 0, 0, 0) 57.14286%, rgba(0, 0, 0, 0) 57.14286%, #ffdede 57.14286%, #ffdede 71.42857%, rgba(0, 0, 0, 0) 71.42857%, rgba(0, 0, 0, 0) 71.42857%, #ffdede 71.42857%, #ffdede 85.71429%, rgba(0, 0, 0, 0) 85.71429%, rgba(0, 0, 0, 0) 85.71429%, #ffdede 85.71429%, #ffdede 100%, rgba(0, 0, 0, 0) 100%) left top no-repeat;
+    background: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAARVJREFUeNpi/P//PwMMMDIyMpALYOawEKEWpIYPiAWg7M9A/B6If4LMwaaYkGHiQKwFxJpAzA3E94H4LBA/BOJfWJ0Kw0iAFYhFgFgHiIOBuPHGjRtvf//+/X/WrFmHgHxPqIsxzGHC4TJ+IDYCYu+EhIQ4oGG5ysrKQiCJX79+cQApXqilDMR6mROI5Z8+fVotJibGS0rk4HLhd1AYSUtLd8rLyy/78uXLb0oN/AjE54D44LNnz27euXPnHaUGglz0BoifAvEHaniZbDBq4BA0EJR8vjAxMf2FCbCxsf2AljhYEzsjgfIQlKe1gVgPiCWAGGTwbWylDcwcQgayQIssASj9D5qLMMpDYg0kucSmeqQABBgAsyJrV7MArsMAAAAASUVORK5CYII=") 7.14286% top no-repeat, url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAbBJREFUeNqslL1Kw1AUx5O2ih8BsWoRAw6SgAHJKvQFunWqQ18gs5Oj4DP4DuLomqWTjhVEKYVapDRBrdXUqtU2avyfelNCbGwTvfDj9N5L/j1f9/CO43C0eJ7n/rIGOgGCk2ABzIEJ73fgDbTAI7DHEYwDEWyCdTDtEfwAFrgAp6DpF+z/GGy+FwmkNU07sG3b8WMYxhPut8GaP2QiFiFXFMqMLxU/lT2LQl4FW2AX7IPDUqnUIg/r9foz9jtAHtdDytMNOAZH4EQUxY4sy1QgrlKp3MNQ2N1hDiYCIuuBa/BCBcrn8yvuBTy9hSHR12Efjsoh5WpRVdWBYLFYNFmlIwlSxecVRUm5B4VC4QrmgfVjKEG6E0BSkqQkHVSrVatWq1Eq2izXoQSnSCybzcqCIPRbpFwuN1m4HfZqQglS/lKZTEZyD0zTtNiz6/4WVtCaBUvI37J7oOv6Jcwd85Abt7HdP9qgxrYsq0cNTRb7PaAOc2TU06PzRC6XE938NRqNNvOOmvozyMGg8RXzTByFvVsqyDk4Y20Tah76Z2KcNXKLtcx7FMF/ndiRBb8EGABjzN026ymFhAAAAABJRU5ErkJggg==") 7.14286% bottom no-repeat, url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAdBJREFUeNqslL9LQlEUx3367AdamdCQaVjQ0uAQBS+hxbVBhEcESoOG/0SDS9HakDYGEU0huLa1GW4tGtkkURBlQRn4LPseOBdej0u+ygsffByvH98995zj6Ha7DqIfizyKkCmKYv1eBaPAB4ZpP3gDz/zZ+Y1wAEyBeTAH/OATPIBrUAP3oG0VOiRHVli2nslkTmu12pNhGF2iUqncxePxI3yngwDv7SkcAstYeSEy02w229FodB97NN77TeiU5NYDJlOp1KII5HK5y2QyWaZnr9frxvMSv6HH+mOZkPI3EgwGfSJQr9db5g2hUGiMZW47wg/QUlXVMAd1XQ+I50aj8cI3bUhrx5JD+ucI2ADb4DASiZyZ80j5pTzLcigTOlkaBqtgp1gs3ghZqVS6QmyTTm73lkXpTIBEOp0umm9Y07QDxFdkF/KTcBAsgC3k61UI8/n8BWJJrlOnXaEo7BQJhKxarTYR2+OiDnM1OOwWtkbFS0cUwlgsdo74MdgFa2AauOwIqW8ThUKhLOsUIpvNnmBPlIdGz06h1fH7/a6/jDDZtKEjz/ClzFrfAuudpw1d0C03wo/jS2HpOM9Da3tRd1CnPNodX/+a2H0XfgkwAIVYVeQ1/9a6AAAAAElFTkSuQmCC") 21.42857% top no-repeat, url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAcZJREFUeNqslLFLw0AUxpPWKNZag6igqYKgCA61dhScHbV0URwcCo7+DV1K5y6FTlIcdQl0dhKkdBAHsaJ1MBQdJEZNKmnQ+B3cQZte2wx98OPIu5ePe+/dO8F1XYEwDCM6I332yd4EkOkaBA74BB/AJhq8n3g2ChbAGlgBs9T3A57BDXgBTfDXdUxPygGwCPbT6fR5tVp9dRzHZRQKhWvsHYMNevIOLZ4gCdpOJpOn7ULtlMvlO8QcgnmvYICTbogEplKpTeYolUpPmUzmln3H4/ElLFO0DII3PV79IuFwOMQchmG0stlsXZIklRCNRs/gfqc1HSgogTFFUSaZIxaLyZqm7SDd3UqlsgVB0kwLtLh3x1PDZXCCZrz1qqGqqg+IOfJbwy5DDev5fP6efScSCQXLnLfLvVLuMlJDXdcdTmmCfgRJ/r+8KfBjPEFyErvRaHwPGl2/o0c692WaZpM5ZFnuuG+WZdm0y46fLg+clGKxeIWYPTDjZ/TYLB9gli9qtZrOhNAcO5fLXdIrs+qdFKIjMjFRFL3TQq7GOv1xmnbUBI+AjKHmfcL6CbL6Ruh7OE5CaH0NSotXPmHYL3ZAGLL9CzAANR4i5o9tHM8AAAAASUVORK5CYII=") 21.42857% bottom no-repeat, url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAe5JREFUeNqslM1LAkEYxnX7lL62CAmTwENkhyKwDkZg185dgvDQwS7RUQkvkRfzKNQfIF5CukjRJelk4EWwDmVUEJinaNlSMLPWnhdmYFvWGqiFH44z8z7zzjPvjKXZbFqI//hIx8rFrFarfkwCNiCDPtABNFADKngFH6KC1BgEE2ASOEE3E1DALbgCZfBuFLSYbJmC51wu1046nb5pNBpNTrFYVEKh0DHGV8AoW/xXQTsFJJPJC72YHq/Xu485Xrb4N0HJxFvybsjtdtt5Rzwev04kEvf8v9/v97CFbcbgdhPBT/AmSZLGOxRFaRgyoa22scP7VbACih6PZ5cdzAjoSqVS03xCoVB4wM8zLWxaOwYPaZEBMAXWI5HIud6/TCZTQv82mBX18MfP5/M5Y7HYAprDlLlIhpTdPNgEe+AQHOVyuSeeJZUT+taAQyRDuhnufD6/heANsBwOh8ey2ewTn+BwOPrZCXcYg80EycMeTdNa2lGpVN5ZNWgiglQitWq1Wtd3yrLcydvlclll1VAX8ZAehCUYf9rqpgQCgQPMWQS9IlePtuyiCxGNRs9UVa1zoVKpVA0GgycYWwVjrLiFnq9OFjADxlkm5NcLuAOX4NHstWklyEVlBvfvjb2HL8xri8iW//Ri/7vglwADAMZnRpCsTg8QAAAAAElFTkSuQmCC") 35.71429% top no-repeat, url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAc5JREFUeNqslM9KAlEUxp0xzSTNDHMoCiIKKRChXbgIAldKEK5y4Up9A5dufAMRRB8gwnW7lkV/EBcR0WzaBMEQFRNFlkNO34E7MU23msyBHzNz58x373fOPdeh67qDGMRFOkOccQEMg3EwBlyW7xp4AHega/2ZJ0gCM2AFLIARy/cOkMEJuAZvX5ZpsRwEyUajsa9pms4jn89vI2bVOhnpiJwVkt2JcDg82U8eeZZpEqd5IJPJHDebzVtmj3J3BBReDsU/LoAEn1keSazXl2AikQghd0mw2Wq10vF4nAo2DTx9CWaz2XnjORaLSYVCYR2Pc8BnR5BsdURR/NgO1Wr1rFKpnBvvkUiEChYCXjtFobx0U6nUHu4XxgSlUmnZCJAkycfEXHYE3dQh7XY7HY1Gp2igXC63e72e1Y2T55BnmQI9ZgG/3+/Fu5OTGltVfqFelWX5xhgIBAJuc4CiKI+4PbG+dvzWeqNgLZfL7XzXevV6/QAxG9RRVi2eIFmbBVvFYnEXK703hFRVfa3Vaoe0k8Aiy/cnQcEQEwTBWhjauEvsxAmyicjmJTgFVyw9uh1BYwf4KYXsVBFYu6nsPOyaxX6y/K8TW3QM+HoXYACXiuXQRCn2XAAAAABJRU5ErkJggg==") 35.71429% bottom no-repeat, url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAW5JREFUeNqslDFLw0AYhpOaSFuiDjqViiUKVhACDpJCQycX/TVChCz+Evf8ALtlCGZyCW6uOiR4QusgSgtmiO/BBZJ4l1qSg4dwd19e7vvuvU9K01SiNDGojpyJybLMi9kEu2AHqGwtAZ/gA/ysI6iAPjgHx6DD1pfgGTwCUhaUKlLeBheO49wnSZLmwfotGPJSblWUZAscmKY55Ox1ciUoDJGgwmrXm0wmg3UuRiTYpWK2bY80TVN93yd1BWm6/fF4fEgnQRDM6ggW0iWELKbT6byOYCFdz/OIwJ9d3sW0BOn2LMvS6cR13TeBpfaZ4f96p+TDI3ATRdF32X8ZcRx/IeYa6P/x4YbIY7kfZZEXeYL0rS7wFIUdg+0tWWxxj/OW98AZOM0ag2EYgzAMr7IAVVXv8PHAA5jnU1Y4B6Cd5Am8sJvU2+32ZSnmHbyy2JUnLOzTGwcjcMLqVtltVgnyemJlP5Sa7tiNC/4KMAAbxb+98QKR2gAAAABJRU5ErkJggg==") 50% top no-repeat, url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAW5JREFUeNqslDFLw0AYhpOaSFuiDjqViiUKVhACDpJCQycX/TVChCz+Evf8ALtlCGZyCW6uOiR4QusgSgtmiO/BBZJ4l1qSg4dwd19e7vvuvU9K01SiNDGojpyJybLMi9kEu2AHqGwtAZ/gA/ysI6iAPjgHx6DD1pfgGTwCUhaUKlLeBheO49wnSZLmwfotGPJSblWUZAscmKY55Ox1ciUoDJGgwmrXm0wmg3UuRiTYpWK2bY80TVN93yd1BWm6/fF4fEgnQRDM6ggW0iWELKbT6byOYCFdz/OIwJ9d3sW0BOn2LMvS6cR13TeBpfaZ4f96p+TDI3ATRdF32X8ZcRx/IeYa6P/x4YbIY7kfZZEXeYL0rS7wFIUdg+0tWWxxj/OW98AZOM0ag2EYgzAMr7IAVVXv8PHAA5jnU1Y4B6Cd5Am8sJvU2+32ZSnmHbyy2JUnLOzTGwcjcMLqVtltVgnyemJlP5Sa7tiNC/4KMAAbxb+98QKR2gAAAABJRU5ErkJggg==") 50% bottom no-repeat, url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAc5JREFUeNqslM9KAlEUxp0xzSTNDHMoCiIKKRChXbgIAldKEK5y4Up9A5dufAMRRB8gwnW7lkV/EBcR0WzaBMEQFRNFlkNO34E7MU23msyBHzNz58x373fOPdeh67qDGMRFOkOccQEMg3EwBlyW7xp4AHega/2ZJ0gCM2AFLIARy/cOkMEJuAZvX5ZpsRwEyUajsa9pms4jn89vI2bVOhnpiJwVkt2JcDg82U8eeZZpEqd5IJPJHDebzVtmj3J3BBReDsU/LoAEn1keSazXl2AikQghd0mw2Wq10vF4nAo2DTx9CWaz2XnjORaLSYVCYR2Pc8BnR5BsdURR/NgO1Wr1rFKpnBvvkUiEChYCXjtFobx0U6nUHu4XxgSlUmnZCJAkycfEXHYE3dQh7XY7HY1Gp2igXC63e72e1Y2T55BnmQI9ZgG/3+/Fu5OTGltVfqFelWX5xhgIBAJuc4CiKI+4PbG+dvzWeqNgLZfL7XzXevV6/QAxG9RRVi2eIFmbBVvFYnEXK703hFRVfa3Vaoe0k8Aiy/cnQcEQEwTBWhjauEvsxAmyicjmJTgFVyw9uh1BYwf4KYXsVBFYu6nsPOyaxX6y/K8TW3QM+HoXYACXiuXQRCn2XAAAAABJRU5ErkJggg==") 64.28571% top no-repeat, url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAe5JREFUeNqslM1LAkEYxnX7lL62CAmTwENkhyKwDkZg185dgvDQwS7RUQkvkRfzKNQfIF5CukjRJelk4EWwDmVUEJinaNlSMLPWnhdmYFvWGqiFH44z8z7zzjPvjKXZbFqI//hIx8rFrFarfkwCNiCDPtABNFADKngFH6KC1BgEE2ASOEE3E1DALbgCZfBuFLSYbJmC51wu1046nb5pNBpNTrFYVEKh0DHGV8AoW/xXQTsFJJPJC72YHq/Xu485Xrb4N0HJxFvybsjtdtt5Rzwev04kEvf8v9/v97CFbcbgdhPBT/AmSZLGOxRFaRgyoa22scP7VbACih6PZ5cdzAjoSqVS03xCoVB4wM8zLWxaOwYPaZEBMAXWI5HIud6/TCZTQv82mBX18MfP5/M5Y7HYAprDlLlIhpTdPNgEe+AQHOVyuSeeJZUT+taAQyRDuhnufD6/heANsBwOh8ey2ewTn+BwOPrZCXcYg80EycMeTdNa2lGpVN5ZNWgiglQitWq1Wtd3yrLcydvlclll1VAX8ZAehCUYf9rqpgQCgQPMWQS9IlePtuyiCxGNRs9UVa1zoVKpVA0GgycYWwVjrLiFnq9OFjADxlkm5NcLuAOX4NHstWklyEVlBvfvjb2HL8xri8iW//Ri/7vglwADAMZnRpCsTg8QAAAAAElFTkSuQmCC") 64.28571% bottom no-repeat, url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAcZJREFUeNqslLFLw0AUxpPWKNZag6igqYKgCA61dhScHbV0URwcCo7+DV1K5y6FTlIcdQl0dhKkdBAHsaJ1MBQdJEZNKmnQ+B3cQZte2wx98OPIu5ePe+/dO8F1XYEwDCM6I332yd4EkOkaBA74BB/AJhq8n3g2ChbAGlgBs9T3A57BDXgBTfDXdUxPygGwCPbT6fR5tVp9dRzHZRQKhWvsHYMNevIOLZ4gCdpOJpOn7ULtlMvlO8QcgnmvYICTbogEplKpTeYolUpPmUzmln3H4/ElLFO0DII3PV79IuFwOMQchmG0stlsXZIklRCNRs/gfqc1HSgogTFFUSaZIxaLyZqm7SDd3UqlsgVB0kwLtLh3x1PDZXCCZrz1qqGqqg+IOfJbwy5DDev5fP6efScSCQXLnLfLvVLuMlJDXdcdTmmCfgRJ/r+8KfBjPEFyErvRaHwPGl2/o0c692WaZpM5ZFnuuG+WZdm0y46fLg+clGKxeIWYPTDjZ/TYLB9gli9qtZrOhNAcO5fLXdIrs+qdFKIjMjFRFL3TQq7GOv1xmnbUBI+AjKHmfcL6CbL6Ruh7OE5CaH0NSotXPmHYL3ZAGLL9CzAANR4i5o9tHM8AAAAASUVORK5CYII=") 78.57143% top no-repeat, url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAdBJREFUeNqslL9LQlEUx3367AdamdCQaVjQ0uAQBS+hxbVBhEcESoOG/0SDS9HakDYGEU0huLa1GW4tGtkkURBlQRn4LPseOBdej0u+ygsffByvH98995zj6Ha7DqIfizyKkCmKYv1eBaPAB4ZpP3gDz/zZ+Y1wAEyBeTAH/OATPIBrUAP3oG0VOiRHVli2nslkTmu12pNhGF2iUqncxePxI3yngwDv7SkcAstYeSEy02w229FodB97NN77TeiU5NYDJlOp1KII5HK5y2QyWaZnr9frxvMSv6HH+mOZkPI3EgwGfSJQr9db5g2hUGiMZW47wg/QUlXVMAd1XQ+I50aj8cI3bUhrx5JD+ucI2ADb4DASiZyZ80j5pTzLcigTOlkaBqtgp1gs3ghZqVS6QmyTTm73lkXpTIBEOp0umm9Y07QDxFdkF/KTcBAsgC3k61UI8/n8BWJJrlOnXaEo7BQJhKxarTYR2+OiDnM1OOwWtkbFS0cUwlgsdo74MdgFa2AauOwIqW8ThUKhLOsUIpvNnmBPlIdGz06h1fH7/a6/jDDZtKEjz/ClzFrfAuudpw1d0C03wo/jS2HpOM9Da3tRd1CnPNodX/+a2H0XfgkwAIVYVeQ1/9a6AAAAAElFTkSuQmCC") 78.57143% bottom no-repeat, url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAbBJREFUeNqslL1Kw1AUx5O2ih8BsWoRAw6SgAHJKvQFunWqQ18gs5Oj4DP4DuLomqWTjhVEKYVapDRBrdXUqtU2avyfelNCbGwTvfDj9N5L/j1f9/CO43C0eJ7n/rIGOgGCk2ABzIEJ73fgDbTAI7DHEYwDEWyCdTDtEfwAFrgAp6DpF+z/GGy+FwmkNU07sG3b8WMYxhPut8GaP2QiFiFXFMqMLxU/lT2LQl4FW2AX7IPDUqnUIg/r9foz9jtAHtdDytMNOAZH4EQUxY4sy1QgrlKp3MNQ2N1hDiYCIuuBa/BCBcrn8yvuBTy9hSHR12Efjsoh5WpRVdWBYLFYNFmlIwlSxecVRUm5B4VC4QrmgfVjKEG6E0BSkqQkHVSrVatWq1Eq2izXoQSnSCybzcqCIPRbpFwuN1m4HfZqQglS/lKZTEZyD0zTtNiz6/4WVtCaBUvI37J7oOv6Jcwd85Abt7HdP9qgxrYsq0cNTRb7PaAOc2TU06PzRC6XE938NRqNNvOOmvozyMGg8RXzTByFvVsqyDk4Y20Tah76Z2KcNXKLtcx7FMF/ndiRBb8EGABjzN026ymFhAAAAABJRU5ErkJggg==") 92.85714% top no-repeat, url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAARVJREFUeNpi/P//PwMMMDIyMpALYOawEKEWpIYPiAWg7M9A/B6If4LMwaaYkGHiQKwFxJpAzA3E94H4LBA/BOJfWJ0Kw0iAFYhFgFgHiIOBuPHGjRtvf//+/X/WrFmHgHxPqIsxzGHC4TJ+IDYCYu+EhIQ4oGG5ysrKQiCJX79+cQApXqilDMR6mROI5Z8+fVotJibGS0rk4HLhd1AYSUtLd8rLyy/78uXLb0oN/AjE54D44LNnz27euXPnHaUGglz0BoifAvEHaniZbDBq4BA0EJR8vjAxMf2FCbCxsf2AljhYEzsjgfIQlKe1gVgPiCWAGGTwbWylDcwcQgayQIssASj9D5qLMMpDYg0kucSmeqQABBgAsyJrV7MArsMAAAAASUVORK5CYII=") 92.85714% bottom no-repeat, -webkit-linear-gradient(left, rgba(0, 0, 0, 0) 0%, #ffdede 0%, #ffdede 14.28571%, rgba(0, 0, 0, 0) 14.28571%, rgba(0, 0, 0, 0) 14.28571%, #ffdede 14.28571%, #ffdede 28.57143%, rgba(0, 0, 0, 0) 28.57143%, rgba(0, 0, 0, 0) 28.57143%, #ffdede 28.57143%, #ffdede 42.85714%, rgba(0, 0, 0, 0) 42.85714%, rgba(0, 0, 0, 0) 42.85714%, #ffdede 42.85714%, #ffdede 57.14286%, rgba(0, 0, 0, 0) 57.14286%, rgba(0, 0, 0, 0) 57.14286%, #ffdede 57.14286%, #ffdede 71.42857%, rgba(0, 0, 0, 0) 71.42857%, rgba(0, 0, 0, 0) 71.42857%, #ffdede 71.42857%, #ffdede 85.71429%, rgba(0, 0, 0, 0) 85.71429%, rgba(0, 0, 0, 0) 85.71429%, #ffdede 85.71429%, #ffdede 100%, rgba(0, 0, 0, 0) 100%) left top no-repeat;
+    background: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAARVJREFUeNpi/P//PwMMMDIyMpALYOawEKEWpIYPiAWg7M9A/B6If4LMwaaYkGHiQKwFxJpAzA3E94H4LBA/BOJfWJ0Kw0iAFYhFgFgHiIOBuPHGjRtvf//+/X/WrFmHgHxPqIsxzGHC4TJ+IDYCYu+EhIQ4oGG5ysrKQiCJX79+cQApXqilDMR6mROI5Z8+fVotJibGS0rk4HLhd1AYSUtLd8rLyy/78uXLb0oN/AjE54D44LNnz27euXPnHaUGglz0BoifAvEHaniZbDBq4BA0EJR8vjAxMf2FCbCxsf2AljhYEzsjgfIQlKe1gVgPiCWAGGTwbWylDcwcQgayQIssASj9D5qLMMpDYg0kucSmeqQABBgAsyJrV7MArsMAAAAASUVORK5CYII=") 7.14286% top no-repeat, url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAbBJREFUeNqslL1Kw1AUx5O2ih8BsWoRAw6SgAHJKvQFunWqQ18gs5Oj4DP4DuLomqWTjhVEKYVapDRBrdXUqtU2avyfelNCbGwTvfDj9N5L/j1f9/CO43C0eJ7n/rIGOgGCk2ABzIEJ73fgDbTAI7DHEYwDEWyCdTDtEfwAFrgAp6DpF+z/GGy+FwmkNU07sG3b8WMYxhPut8GaP2QiFiFXFMqMLxU/lT2LQl4FW2AX7IPDUqnUIg/r9foz9jtAHtdDytMNOAZH4EQUxY4sy1QgrlKp3MNQ2N1hDiYCIuuBa/BCBcrn8yvuBTy9hSHR12Efjsoh5WpRVdWBYLFYNFmlIwlSxecVRUm5B4VC4QrmgfVjKEG6E0BSkqQkHVSrVatWq1Eq2izXoQSnSCybzcqCIPRbpFwuN1m4HfZqQglS/lKZTEZyD0zTtNiz6/4WVtCaBUvI37J7oOv6Jcwd85Abt7HdP9qgxrYsq0cNTRb7PaAOc2TU06PzRC6XE938NRqNNvOOmvozyMGg8RXzTByFvVsqyDk4Y20Tah76Z2KcNXKLtcx7FMF/ndiRBb8EGABjzN026ymFhAAAAABJRU5ErkJggg==") 7.14286% bottom no-repeat, url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAdBJREFUeNqslL9LQlEUx3367AdamdCQaVjQ0uAQBS+hxbVBhEcESoOG/0SDS9HakDYGEU0huLa1GW4tGtkkURBlQRn4LPseOBdej0u+ygsffByvH98995zj6Ha7DqIfizyKkCmKYv1eBaPAB4ZpP3gDz/zZ+Y1wAEyBeTAH/OATPIBrUAP3oG0VOiRHVli2nslkTmu12pNhGF2iUqncxePxI3yngwDv7SkcAstYeSEy02w229FodB97NN77TeiU5NYDJlOp1KII5HK5y2QyWaZnr9frxvMSv6HH+mOZkPI3EgwGfSJQr9db5g2hUGiMZW47wg/QUlXVMAd1XQ+I50aj8cI3bUhrx5JD+ucI2ADb4DASiZyZ80j5pTzLcigTOlkaBqtgp1gs3ghZqVS6QmyTTm73lkXpTIBEOp0umm9Y07QDxFdkF/KTcBAsgC3k61UI8/n8BWJJrlOnXaEo7BQJhKxarTYR2+OiDnM1OOwWtkbFS0cUwlgsdo74MdgFa2AauOwIqW8ThUKhLOsUIpvNnmBPlIdGz06h1fH7/a6/jDDZtKEjz/ClzFrfAuudpw1d0C03wo/jS2HpOM9Da3tRd1CnPNodX/+a2H0XfgkwAIVYVeQ1/9a6AAAAAElFTkSuQmCC") 21.42857% top no-repeat, url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAcZJREFUeNqslLFLw0AUxpPWKNZag6igqYKgCA61dhScHbV0URwcCo7+DV1K5y6FTlIcdQl0dhKkdBAHsaJ1MBQdJEZNKmnQ+B3cQZte2wx98OPIu5ePe+/dO8F1XYEwDCM6I332yd4EkOkaBA74BB/AJhq8n3g2ChbAGlgBs9T3A57BDXgBTfDXdUxPygGwCPbT6fR5tVp9dRzHZRQKhWvsHYMNevIOLZ4gCdpOJpOn7ULtlMvlO8QcgnmvYICTbogEplKpTeYolUpPmUzmln3H4/ElLFO0DII3PV79IuFwOMQchmG0stlsXZIklRCNRs/gfqc1HSgogTFFUSaZIxaLyZqm7SDd3UqlsgVB0kwLtLh3x1PDZXCCZrz1qqGqqg+IOfJbwy5DDev5fP6efScSCQXLnLfLvVLuMlJDXdcdTmmCfgRJ/r+8KfBjPEFyErvRaHwPGl2/o0c692WaZpM5ZFnuuG+WZdm0y46fLg+clGKxeIWYPTDjZ/TYLB9gli9qtZrOhNAcO5fLXdIrs+qdFKIjMjFRFL3TQq7GOv1xmnbUBI+AjKHmfcL6CbL6Ruh7OE5CaH0NSotXPmHYL3ZAGLL9CzAANR4i5o9tHM8AAAAASUVORK5CYII=") 21.42857% bottom no-repeat, url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAe5JREFUeNqslM1LAkEYxnX7lL62CAmTwENkhyKwDkZg185dgvDQwS7RUQkvkRfzKNQfIF5CukjRJelk4EWwDmVUEJinaNlSMLPWnhdmYFvWGqiFH44z8z7zzjPvjKXZbFqI//hIx8rFrFarfkwCNiCDPtABNFADKngFH6KC1BgEE2ASOEE3E1DALbgCZfBuFLSYbJmC51wu1046nb5pNBpNTrFYVEKh0DHGV8AoW/xXQTsFJJPJC72YHq/Xu485Xrb4N0HJxFvybsjtdtt5Rzwev04kEvf8v9/v97CFbcbgdhPBT/AmSZLGOxRFaRgyoa22scP7VbACih6PZ5cdzAjoSqVS03xCoVB4wM8zLWxaOwYPaZEBMAXWI5HIud6/TCZTQv82mBX18MfP5/M5Y7HYAprDlLlIhpTdPNgEe+AQHOVyuSeeJZUT+taAQyRDuhnufD6/heANsBwOh8ey2ewTn+BwOPrZCXcYg80EycMeTdNa2lGpVN5ZNWgiglQitWq1Wtd3yrLcydvlclll1VAX8ZAehCUYf9rqpgQCgQPMWQS9IlePtuyiCxGNRs9UVa1zoVKpVA0GgycYWwVjrLiFnq9OFjADxlkm5NcLuAOX4NHstWklyEVlBvfvjb2HL8xri8iW//Ri/7vglwADAMZnRpCsTg8QAAAAAElFTkSuQmCC") 35.71429% top no-repeat, url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAc5JREFUeNqslM9KAlEUxp0xzSTNDHMoCiIKKRChXbgIAldKEK5y4Up9A5dufAMRRB8gwnW7lkV/EBcR0WzaBMEQFRNFlkNO34E7MU23msyBHzNz58x373fOPdeh67qDGMRFOkOccQEMg3EwBlyW7xp4AHega/2ZJ0gCM2AFLIARy/cOkMEJuAZvX5ZpsRwEyUajsa9pms4jn89vI2bVOhnpiJwVkt2JcDg82U8eeZZpEqd5IJPJHDebzVtmj3J3BBReDsU/LoAEn1keSazXl2AikQghd0mw2Wq10vF4nAo2DTx9CWaz2XnjORaLSYVCYR2Pc8BnR5BsdURR/NgO1Wr1rFKpnBvvkUiEChYCXjtFobx0U6nUHu4XxgSlUmnZCJAkycfEXHYE3dQh7XY7HY1Gp2igXC63e72e1Y2T55BnmQI9ZgG/3+/Fu5OTGltVfqFelWX5xhgIBAJuc4CiKI+4PbG+dvzWeqNgLZfL7XzXevV6/QAxG9RRVi2eIFmbBVvFYnEXK703hFRVfa3Vaoe0k8Aiy/cnQcEQEwTBWhjauEvsxAmyicjmJTgFVyw9uh1BYwf4KYXsVBFYu6nsPOyaxX6y/K8TW3QM+HoXYACXiuXQRCn2XAAAAABJRU5ErkJggg==") 35.71429% bottom no-repeat, url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAW5JREFUeNqslDFLw0AYhpOaSFuiDjqViiUKVhACDpJCQycX/TVChCz+Evf8ALtlCGZyCW6uOiR4QusgSgtmiO/BBZJ4l1qSg4dwd19e7vvuvU9K01SiNDGojpyJybLMi9kEu2AHqGwtAZ/gA/ysI6iAPjgHx6DD1pfgGTwCUhaUKlLeBheO49wnSZLmwfotGPJSblWUZAscmKY55Ox1ciUoDJGgwmrXm0wmg3UuRiTYpWK2bY80TVN93yd1BWm6/fF4fEgnQRDM6ggW0iWELKbT6byOYCFdz/OIwJ9d3sW0BOn2LMvS6cR13TeBpfaZ4f96p+TDI3ATRdF32X8ZcRx/IeYa6P/x4YbIY7kfZZEXeYL0rS7wFIUdg+0tWWxxj/OW98AZOM0ag2EYgzAMr7IAVVXv8PHAA5jnU1Y4B6Cd5Am8sJvU2+32ZSnmHbyy2JUnLOzTGwcjcMLqVtltVgnyemJlP5Sa7tiNC/4KMAAbxb+98QKR2gAAAABJRU5ErkJggg==") 50% top no-repeat, url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAW5JREFUeNqslDFLw0AYhpOaSFuiDjqViiUKVhACDpJCQycX/TVChCz+Evf8ALtlCGZyCW6uOiR4QusgSgtmiO/BBZJ4l1qSg4dwd19e7vvuvU9K01SiNDGojpyJybLMi9kEu2AHqGwtAZ/gA/ysI6iAPjgHx6DD1pfgGTwCUhaUKlLeBheO49wnSZLmwfotGPJSblWUZAscmKY55Ox1ciUoDJGgwmrXm0wmg3UuRiTYpWK2bY80TVN93yd1BWm6/fF4fEgnQRDM6ggW0iWELKbT6byOYCFdz/OIwJ9d3sW0BOn2LMvS6cR13TeBpfaZ4f96p+TDI3ATRdF32X8ZcRx/IeYa6P/x4YbIY7kfZZEXeYL0rS7wFIUdg+0tWWxxj/OW98AZOM0ag2EYgzAMr7IAVVXv8PHAA5jnU1Y4B6Cd5Am8sJvU2+32ZSnmHbyy2JUnLOzTGwcjcMLqVtltVgnyemJlP5Sa7tiNC/4KMAAbxb+98QKR2gAAAABJRU5ErkJggg==") 50% bottom no-repeat, url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAc5JREFUeNqslM9KAlEUxp0xzSTNDHMoCiIKKRChXbgIAldKEK5y4Up9A5dufAMRRB8gwnW7lkV/EBcR0WzaBMEQFRNFlkNO34E7MU23msyBHzNz58x373fOPdeh67qDGMRFOkOccQEMg3EwBlyW7xp4AHega/2ZJ0gCM2AFLIARy/cOkMEJuAZvX5ZpsRwEyUajsa9pms4jn89vI2bVOhnpiJwVkt2JcDg82U8eeZZpEqd5IJPJHDebzVtmj3J3BBReDsU/LoAEn1keSazXl2AikQghd0mw2Wq10vF4nAo2DTx9CWaz2XnjORaLSYVCYR2Pc8BnR5BsdURR/NgO1Wr1rFKpnBvvkUiEChYCXjtFobx0U6nUHu4XxgSlUmnZCJAkycfEXHYE3dQh7XY7HY1Gp2igXC63e72e1Y2T55BnmQI9ZgG/3+/Fu5OTGltVfqFelWX5xhgIBAJuc4CiKI+4PbG+dvzWeqNgLZfL7XzXevV6/QAxG9RRVi2eIFmbBVvFYnEXK703hFRVfa3Vaoe0k8Aiy/cnQcEQEwTBWhjauEvsxAmyicjmJTgFVyw9uh1BYwf4KYXsVBFYu6nsPOyaxX6y/K8TW3QM+HoXYACXiuXQRCn2XAAAAABJRU5ErkJggg==") 64.28571% top no-repeat, url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAe5JREFUeNqslM1LAkEYxnX7lL62CAmTwENkhyKwDkZg185dgvDQwS7RUQkvkRfzKNQfIF5CukjRJelk4EWwDmVUEJinaNlSMLPWnhdmYFvWGqiFH44z8z7zzjPvjKXZbFqI//hIx8rFrFarfkwCNiCDPtABNFADKngFH6KC1BgEE2ASOEE3E1DALbgCZfBuFLSYbJmC51wu1046nb5pNBpNTrFYVEKh0DHGV8AoW/xXQTsFJJPJC72YHq/Xu485Xrb4N0HJxFvybsjtdtt5Rzwev04kEvf8v9/v97CFbcbgdhPBT/AmSZLGOxRFaRgyoa22scP7VbACih6PZ5cdzAjoSqVS03xCoVB4wM8zLWxaOwYPaZEBMAXWI5HIud6/TCZTQv82mBX18MfP5/M5Y7HYAprDlLlIhpTdPNgEe+AQHOVyuSeeJZUT+taAQyRDuhnufD6/heANsBwOh8ey2ewTn+BwOPrZCXcYg80EycMeTdNa2lGpVN5ZNWgiglQitWq1Wtd3yrLcydvlclll1VAX8ZAehCUYf9rqpgQCgQPMWQS9IlePtuyiCxGNRs9UVa1zoVKpVA0GgycYWwVjrLiFnq9OFjADxlkm5NcLuAOX4NHstWklyEVlBvfvjb2HL8xri8iW//Ri/7vglwADAMZnRpCsTg8QAAAAAElFTkSuQmCC") 64.28571% bottom no-repeat, url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAcZJREFUeNqslLFLw0AUxpPWKNZag6igqYKgCA61dhScHbV0URwcCo7+DV1K5y6FTlIcdQl0dhKkdBAHsaJ1MBQdJEZNKmnQ+B3cQZte2wx98OPIu5ePe+/dO8F1XYEwDCM6I332yd4EkOkaBA74BB/AJhq8n3g2ChbAGlgBs9T3A57BDXgBTfDXdUxPygGwCPbT6fR5tVp9dRzHZRQKhWvsHYMNevIOLZ4gCdpOJpOn7ULtlMvlO8QcgnmvYICTbogEplKpTeYolUpPmUzmln3H4/ElLFO0DII3PV79IuFwOMQchmG0stlsXZIklRCNRs/gfqc1HSgogTFFUSaZIxaLyZqm7SDd3UqlsgVB0kwLtLh3x1PDZXCCZrz1qqGqqg+IOfJbwy5DDev5fP6efScSCQXLnLfLvVLuMlJDXdcdTmmCfgRJ/r+8KfBjPEFyErvRaHwPGl2/o0c692WaZpM5ZFnuuG+WZdm0y46fLg+clGKxeIWYPTDjZ/TYLB9gli9qtZrOhNAcO5fLXdIrs+qdFKIjMjFRFL3TQq7GOv1xmnbUBI+AjKHmfcL6CbL6Ruh7OE5CaH0NSotXPmHYL3ZAGLL9CzAANR4i5o9tHM8AAAAASUVORK5CYII=") 78.57143% top no-repeat, url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAdBJREFUeNqslL9LQlEUx3367AdamdCQaVjQ0uAQBS+hxbVBhEcESoOG/0SDS9HakDYGEU0huLa1GW4tGtkkURBlQRn4LPseOBdej0u+ygsffByvH98995zj6Ha7DqIfizyKkCmKYv1eBaPAB4ZpP3gDz/zZ+Y1wAEyBeTAH/OATPIBrUAP3oG0VOiRHVli2nslkTmu12pNhGF2iUqncxePxI3yngwDv7SkcAstYeSEy02w229FodB97NN77TeiU5NYDJlOp1KII5HK5y2QyWaZnr9frxvMSv6HH+mOZkPI3EgwGfSJQr9db5g2hUGiMZW47wg/QUlXVMAd1XQ+I50aj8cI3bUhrx5JD+ucI2ADb4DASiZyZ80j5pTzLcigTOlkaBqtgp1gs3ghZqVS6QmyTTm73lkXpTIBEOp0umm9Y07QDxFdkF/KTcBAsgC3k61UI8/n8BWJJrlOnXaEo7BQJhKxarTYR2+OiDnM1OOwWtkbFS0cUwlgsdo74MdgFa2AauOwIqW8ThUKhLOsUIpvNnmBPlIdGz06h1fH7/a6/jDDZtKEjz/ClzFrfAuudpw1d0C03wo/jS2HpOM9Da3tRd1CnPNodX/+a2H0XfgkwAIVYVeQ1/9a6AAAAAElFTkSuQmCC") 78.57143% bottom no-repeat, url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAbBJREFUeNqslL1Kw1AUx5O2ih8BsWoRAw6SgAHJKvQFunWqQ18gs5Oj4DP4DuLomqWTjhVEKYVapDRBrdXUqtU2avyfelNCbGwTvfDj9N5L/j1f9/CO43C0eJ7n/rIGOgGCk2ABzIEJ73fgDbTAI7DHEYwDEWyCdTDtEfwAFrgAp6DpF+z/GGy+FwmkNU07sG3b8WMYxhPut8GaP2QiFiFXFMqMLxU/lT2LQl4FW2AX7IPDUqnUIg/r9foz9jtAHtdDytMNOAZH4EQUxY4sy1QgrlKp3MNQ2N1hDiYCIuuBa/BCBcrn8yvuBTy9hSHR12Efjsoh5WpRVdWBYLFYNFmlIwlSxecVRUm5B4VC4QrmgfVjKEG6E0BSkqQkHVSrVatWq1Eq2izXoQSnSCybzcqCIPRbpFwuN1m4HfZqQglS/lKZTEZyD0zTtNiz6/4WVtCaBUvI37J7oOv6Jcwd85Abt7HdP9qgxrYsq0cNTRb7PaAOc2TU06PzRC6XE938NRqNNvOOmvozyMGg8RXzTByFvVsqyDk4Y20Tah76Z2KcNXKLtcx7FMF/ndiRBb8EGABjzN026ymFhAAAAABJRU5ErkJggg==") 92.85714% top no-repeat, url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAARVJREFUeNpi/P//PwMMMDIyMpALYOawEKEWpIYPiAWg7M9A/B6If4LMwaaYkGHiQKwFxJpAzA3E94H4LBA/BOJfWJ0Kw0iAFYhFgFgHiIOBuPHGjRtvf//+/X/WrFmHgHxPqIsxzGHC4TJ+IDYCYu+EhIQ4oGG5ysrKQiCJX79+cQApXqilDMR6mROI5Z8+fVotJibGS0rk4HLhd1AYSUtLd8rLyy/78uXLb0oN/AjE54D44LNnz27euXPnHaUGglz0BoifAvEHaniZbDBq4BA0EJR8vjAxMf2FCbCxsf2AljhYEzsjgfIQlKe1gVgPiCWAGGTwbWylDcwcQgayQIssASj9D5qLMMpDYg0kucSmeqQABBgAsyJrV7MArsMAAAAASUVORK5CYII=") 92.85714% bottom no-repeat, linear-gradient(to right, rgba(0, 0, 0, 0) 0%, #ffdede 0%, #ffdede 14.28571%, rgba(0, 0, 0, 0) 14.28571%, rgba(0, 0, 0, 0) 14.28571%, #ffdede 14.28571%, #ffdede 28.57143%, rgba(0, 0, 0, 0) 28.57143%, rgba(0, 0, 0, 0) 28.57143%, #ffdede 28.57143%, #ffdede 42.85714%, rgba(0, 0, 0, 0) 42.85714%, rgba(0, 0, 0, 0) 42.85714%, #ffdede 42.85714%, #ffdede 57.14286%, rgba(0, 0, 0, 0) 57.14286%, rgba(0, 0, 0, 0) 57.14286%, #ffdede 57.14286%, #ffdede 71.42857%, rgba(0, 0, 0, 0) 71.42857%, rgba(0, 0, 0, 0) 71.42857%, #ffdede 71.42857%, #ffdede 85.71429%, rgba(0, 0, 0, 0) 85.71429%, rgba(0, 0, 0, 0) 85.71429%, #ffdede 85.71429%, #ffdede 100%, rgba(0, 0, 0, 0) 100%) left top no-repeat;
   }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass-extensions\/zen-grids\/zen-grids\/_grids\.scss}line{font-family:\0000343}}
   #navigation #nice-menu-1:before, #navigation #nice-menu-1:after {
@@ -905,12 +908,7 @@ table {
   #navigation #nice-menu-1:after {
     clear: both;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003173}}
-  #navigation #nice-menu-1 li {
-    border: 1px solid;
-    text-align: left;
-  }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003199}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003195}}
   #navigation li:nth-child(1) {
     float: left;
     width: 14.28571%;
@@ -918,7 +916,7 @@ table {
     margin-right: -100%;
     *margin-right: -99.9%;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003202}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003198}}
   #navigation li:nth-child(2) {
     float: left;
     width: 14.28571%;
@@ -926,7 +924,7 @@ table {
     margin-right: -100%;
     *margin-right: -99.9%;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003205}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003201}}
   #navigation li:nth-child(3) {
     float: left;
     width: 14.28571%;
@@ -934,7 +932,7 @@ table {
     margin-right: -100%;
     *margin-right: -99.9%;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003208}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003204}}
   #navigation li:nth-child(4) {
     float: left;
     width: 14.28571%;
@@ -942,7 +940,7 @@ table {
     margin-right: -100%;
     *margin-right: -99.9%;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003211}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003207}}
   #navigation li:nth-child(5) {
     float: left;
     width: 14.28571%;
@@ -950,7 +948,7 @@ table {
     margin-right: -100%;
     *margin-right: -99.9%;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003214}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003210}}
   #navigation li:nth-child(6) {
     float: left;
     width: 14.28571%;
@@ -958,7 +956,7 @@ table {
     margin-right: -100%;
     *margin-right: -99.9%;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003217}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003213}}
   #navigation li:nth-child(7) {
     float: left;
     width: 14.28571%;
@@ -970,12 +968,12 @@ table {
   /**
    * The layout when there is only one sidebar, the left one.
    */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003226}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003222}}
   .sidebar-first {
     /* Span 2 columns, starting in 2nd column from left. */
     /* Span 1 column, starting in 1st column from left. */
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003230}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003226}}
   .sidebar-first #content {
     float: left;
     width: 75%;
@@ -983,7 +981,7 @@ table {
     margin-right: -100%;
     *margin-right: -99.9%;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003235}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003231}}
   .sidebar-first .region-sidebar-first {
     float: left;
     width: 25%;
@@ -995,12 +993,12 @@ table {
   /**
    * The layout when there is only one sidebar, the right one.
    */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003243}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003239}}
   .sidebar-second {
     /* Span 2 columns, starting in 1st column from left. */
     /* Span 1 column, starting in 3rd column from left. */
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003245}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003241}}
   .sidebar-second #content {
     float: left;
     width: 50%;
@@ -1008,7 +1006,7 @@ table {
     margin-right: -100%;
     *margin-right: -99.9%;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003250}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003246}}
   .sidebar-second .region-sidebar-second {
     float: left;
     width: 25%;
@@ -1020,13 +1018,13 @@ table {
   /**
    * The layout when there are two sidebars.
    */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003258}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003254}}
   .two-sidebars {
     /* Span 2 columns, starting in 2nd column from left. */
     /* Span 1 column, starting in 1st column from left. */
     /* Start a new row and span all 3 columns. */
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003260}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003256}}
   .two-sidebars #content {
     float: left;
     width: 50%;
@@ -1034,7 +1032,7 @@ table {
     margin-right: -100%;
     *margin-right: -99.9%;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003265}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003261}}
   .two-sidebars .region-sidebar-first {
     float: left;
     width: 25%;
@@ -1042,7 +1040,7 @@ table {
     margin-right: -100%;
     *margin-right: -99.9%;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003270}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003266}}
   .two-sidebars .region-sidebar-second {
     float: left;
     width: 75%;
@@ -1070,7 +1068,7 @@ table {
   .two-sidebars .region-sidebar-second:after {
     clear: both;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003276}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003272}}
   .two-sidebars .region-sidebar-second .block {
     padding-left: 10px;
     padding-right: 10px;
@@ -1081,7 +1079,7 @@ table {
     *behavior: url("box-sizing-polyfill-master/boxsizing.htc");
     *word-wrap: break-word;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003280}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003276}}
   .two-sidebars .region-sidebar-second .block:nth-child(3n+1) {
     float: left;
     width: 25%;
@@ -1090,7 +1088,7 @@ table {
     *margin-right: -99.9%;
     clear: left;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003285}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003281}}
   .two-sidebars .region-sidebar-second .block:nth-child(3n+2) {
     float: left;
     width: 25%;
@@ -1098,7 +1096,7 @@ table {
     margin-right: -100%;
     *margin-right: -99.9%;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003289}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003285}}
   .two-sidebars .region-sidebar-second .block:nth-child(3n) {
     float: left;
     width: 25%;
@@ -1107,16 +1105,16 @@ table {
     *margin-right: -99.9%;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003295}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003291}}
   .page-taxonomy-term .view-taxonomy-term {
     text-align: center;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003297}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003293}}
   .page-taxonomy-term .view-taxonomy-term .views-field-title {
     text-align: center;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003303}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003299}}
   .views-responsive-grid {
     padding-left: 10px;
     padding-right: 10px;
@@ -1139,7 +1137,7 @@ table {
     clear: both;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003308}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003304}}
   .views-responsive-grid.views-columns-2 {
     *position: relative;
     *zoom: 1;
@@ -1157,11 +1155,11 @@ table {
   .views-responsive-grid.views-columns-2:after {
     clear: both;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003311}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003307}}
   .views-responsive-grid.views-columns-2 .views-row {
     clear: left;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003314}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003310}}
   .views-responsive-grid.views-columns-2 .views-column-1 {
     float: left;
     width: 50%;
@@ -1169,7 +1167,7 @@ table {
     margin-right: -100%;
     *margin-right: -99.9%;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003317}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003313}}
   .views-responsive-grid.views-columns-2 .views-column-2 {
     float: left;
     width: 50%;
@@ -1178,7 +1176,7 @@ table {
     *margin-right: -99.9%;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003321}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003317}}
   .views-responsive-grid.views-columns-3 {
     *position: relative;
     *zoom: 1;
@@ -1196,17 +1194,17 @@ table {
   .views-responsive-grid.views-columns-3:after {
     clear: both;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003325}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003321}}
   .views-responsive-grid.views-columns-3 .views-row {
     width: 49%;
     float: left;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003328}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003324}}
   .views-responsive-grid.views-columns-3 .views-row:nth-child(2n - 1) {
     margin-right: 2%;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003333}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003329}}
   .views-responsive-grid.views-columns-4 {
     *position: relative;
     *zoom: 1;
@@ -1224,7 +1222,7 @@ table {
   .views-responsive-grid.views-columns-4:after {
     clear: both;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003337}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003333}}
   .views-responsive-grid.views-columns-4 .views-column-1 {
     float: left;
     width: 25%;
@@ -1232,7 +1230,7 @@ table {
     margin-right: -100%;
     *margin-right: -99.9%;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003340}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003336}}
   .views-responsive-grid.views-columns-4 .views-column-2 {
     float: left;
     width: 25%;
@@ -1241,7 +1239,7 @@ table {
     *margin-right: -99.9%;
     clear: left;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003344}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003340}}
   .views-responsive-grid.views-columns-4 .views-column-3 {
     float: left;
     width: 25%;
@@ -1249,7 +1247,7 @@ table {
     margin-right: -100%;
     *margin-right: -99.9%;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003347}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003343}}
   .views-responsive-grid.views-columns-4 .views-column-4 {
     float: left;
     width: 25%;
@@ -1262,7 +1260,7 @@ table {
  * Use 5 grid columns for larger screens.
  */
 @media all and (min-width: 960px) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003365}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003361}}
   #header #block-block-1 {
     float: left;
     width: 33.33333%;
@@ -1270,7 +1268,7 @@ table {
     margin-right: -100%;
     *margin-right: -99.9%;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003367}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003363}}
   #header #block-block-1 p {
     bottom: 0;
     left: 30px;
@@ -1278,7 +1276,7 @@ table {
     padding: 1em;
     position: absolute;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003375}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003371}}
   #header #logo {
     float: left;
     width: 66.66667%;
@@ -1289,7 +1287,7 @@ table {
     margin-top: 1.5em;
     margin-bottom: 1.5em;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003381}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003377}}
   #header #block-search-form {
     float: left;
     width: 33.33333%;
@@ -1298,20 +1296,20 @@ table {
     *margin-right: -99.9%;
     text-align: right;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003384}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003380}}
   #header #block-search-form .search-form {
     bottom: 0;
     margin: 1em;
     position: absolute;
     right: 0;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003390}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003386}}
   #header #block-search-form .form-submit {
     position: relative;
     top: 6px;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003396}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003392}}
   #block-views-homepage-images-block {
     padding-left: 10px;
     padding-right: 10px;
@@ -1342,12 +1340,12 @@ table {
     clear: both;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003402}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003398}}
   #block-block-17 {
     display: none;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003405}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003401}}
   .region-content-bottom {
     clear: left;
     padding-left: 10px;
@@ -1377,7 +1375,7 @@ table {
   .region-content-bottom:after {
     clear: both;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003410}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003406}}
   .region-content-bottom #block-views-main-landing-block-7 {
     padding-left: 10px;
     padding-right: 10px;
@@ -1405,7 +1403,7 @@ table {
   .region-content-bottom #block-views-main-landing-block-7:after {
     clear: both;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003416}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003412}}
   .region-content-bottom #block-block-3 {
     padding-left: 10px;
     padding-right: 10px;
@@ -1433,7 +1431,7 @@ table {
   .region-content-bottom #block-block-3:after {
     clear: both;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003422}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003418}}
   .region-content-bottom #block-views-main-landing-block-6 {
     padding-left: 10px;
     padding-right: 10px;
@@ -1462,11 +1460,11 @@ table {
     clear: both;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003431}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003427}}
   #navigation h2 {
     display: none;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003434}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003430}}
   #navigation #nice-menu-1 {
     height: 3.5em;
     *position: relative;
@@ -1490,7 +1488,7 @@ table {
   #navigation #nice-menu-1:after {
     clear: both;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003471}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003467}}
   #navigation li:nth-child(1) {
     float: left;
     width: 14.28571%;
@@ -1498,7 +1496,7 @@ table {
     margin-right: -100%;
     *margin-right: -99.9%;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003474}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003470}}
   #navigation li:nth-child(2) {
     float: left;
     width: 14.28571%;
@@ -1506,7 +1504,7 @@ table {
     margin-right: -100%;
     *margin-right: -99.9%;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003477}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003473}}
   #navigation li:nth-child(3) {
     float: left;
     width: 14.28571%;
@@ -1514,7 +1512,7 @@ table {
     margin-right: -100%;
     *margin-right: -99.9%;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003480}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003476}}
   #navigation li:nth-child(4) {
     float: left;
     width: 14.28571%;
@@ -1522,7 +1520,7 @@ table {
     margin-right: -100%;
     *margin-right: -99.9%;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003483}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003479}}
   #navigation li:nth-child(5) {
     float: left;
     width: 14.28571%;
@@ -1530,7 +1528,7 @@ table {
     margin-right: -100%;
     *margin-right: -99.9%;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003486}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003482}}
   #navigation li:nth-child(6) {
     float: left;
     width: 14.28571%;
@@ -1538,7 +1536,7 @@ table {
     margin-right: -100%;
     *margin-right: -99.9%;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003489}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003485}}
   #navigation li:nth-child(7) {
     float: left;
     width: 14.28571%;
@@ -1550,12 +1548,12 @@ table {
   /**
    * The layout when there is only one sidebar, the left one.
    */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003498}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003494}}
   .sidebar-first {
     /* Span 4 columns, starting in 2nd column from left. */
     /* Span 1 column, starting in 1st column from left. */
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003502}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003498}}
   .sidebar-first #content {
     float: left;
     width: 83.33333%;
@@ -1564,7 +1562,7 @@ table {
     *margin-right: -99.9%;
     padding-right: 6em;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003509}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003505}}
   .sidebar-first .region-sidebar-first {
     float: left;
     width: 16.66667%;
@@ -1576,12 +1574,12 @@ table {
   /**
    * The layout when there is only one sidebar, the right one.
    */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003517}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003513}}
   .sidebar-second {
     /* Span 4 columns, starting in 1st column from left. */
     /* Span 1 column, starting in 5th column from left. */
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003519}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003515}}
   .sidebar-second #content {
     float: left;
     width: 83.33333%;
@@ -1589,7 +1587,7 @@ table {
     margin-right: -100%;
     *margin-right: -99.9%;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003524}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003520}}
   .sidebar-second .region-sidebar-second {
     float: left;
     width: 16.66667%;
@@ -1601,13 +1599,13 @@ table {
   /**
    * The layout when there are two sidebars.
    */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003532}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003528}}
   .two-sidebars {
     /* Span 3 columns, starting in 2nd column from left. */
     /* Span 1 column, starting in 1st column from left. */
     /* Span 1 column, starting in 5th column from left. */
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003534}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003530}}
   .two-sidebars #content {
     float: left;
     width: 66.66667%;
@@ -1615,7 +1613,7 @@ table {
     margin-right: -100%;
     *margin-right: -99.9%;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003539}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003535}}
   .two-sidebars .region-sidebar-first {
     float: left;
     width: 16.66667%;
@@ -1623,7 +1621,7 @@ table {
     margin-right: -100%;
     *margin-right: -99.9%;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003544}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003540}}
   .two-sidebars .region-sidebar-second {
     float: left;
     width: 16.66667%;
@@ -1632,16 +1630,16 @@ table {
     *margin-right: -99.9%;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003549}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003545}}
   .page-taxonomy-term .view-taxonomy-term {
     text-align: left;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003551}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003547}}
   .page-taxonomy-term .view-taxonomy-term .views-field-title {
     text-align: center;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003558}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003554}}
   .views-responsive-grid {
     padding-left: 10px;
     padding-right: 10px;
@@ -1664,12 +1662,12 @@ table {
     clear: both;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003563}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003559}}
   .views-responsive-grid .views-row {
     clear: left;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003566}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003562}}
   .views-responsive-grid.views-columns-2 {
     *position: relative;
     *zoom: 1;
@@ -1687,7 +1685,7 @@ table {
   .views-responsive-grid.views-columns-2:after {
     clear: both;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003569}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003565}}
   .views-responsive-grid.views-columns-2 .views-column-1 {
     float: left;
     width: 50%;
@@ -1695,7 +1693,7 @@ table {
     margin-right: -100%;
     *margin-right: -99.9%;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003572}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003568}}
   .views-responsive-grid.views-columns-2 .views-column-2 {
     float: left;
     width: 50%;
@@ -1704,7 +1702,7 @@ table {
     *margin-right: -99.9%;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003576}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003572}}
   .views-responsive-grid.views-columns-3 {
     *position: relative;
     *zoom: 1;
@@ -1722,7 +1720,7 @@ table {
   .views-responsive-grid.views-columns-3:after {
     clear: both;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003579}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003575}}
   .views-responsive-grid.views-columns-3 .views-column-1 {
     float: left;
     width: 33.33333%;
@@ -1730,7 +1728,7 @@ table {
     margin-right: -100%;
     *margin-right: -99.9%;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003582}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003578}}
   .views-responsive-grid.views-columns-3 .views-column-2 {
     float: left;
     width: 33.33333%;
@@ -1738,7 +1736,7 @@ table {
     margin-right: -100%;
     *margin-right: -99.9%;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003585}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003581}}
   .views-responsive-grid.views-columns-3 .views-column-3 {
     float: left;
     width: 33.33333%;
@@ -1747,7 +1745,7 @@ table {
     *margin-right: -99.9%;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003589}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003585}}
   .views-responsive-grid.views-columns-4 {
     *position: relative;
     *zoom: 1;
@@ -1765,7 +1763,7 @@ table {
   .views-responsive-grid.views-columns-4:after {
     clear: both;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003593}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003589}}
   .views-responsive-grid.views-columns-4 .views-column-1 {
     float: left;
     width: 25%;
@@ -1773,7 +1771,7 @@ table {
     margin-right: -100%;
     *margin-right: -99.9%;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003596}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003592}}
   .views-responsive-grid.views-columns-4 .views-column-2 {
     float: left;
     width: 25%;
@@ -1781,7 +1779,7 @@ table {
     margin-right: -100%;
     *margin-right: -99.9%;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003599}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003595}}
   .views-responsive-grid.views-columns-4 .views-column-3 {
     float: left;
     width: 25%;
@@ -1789,7 +1787,7 @@ table {
     margin-right: -100%;
     *margin-right: -99.9%;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003602}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003598}}
   .views-responsive-grid.views-columns-4 .views-column-4 {
     float: left;
     width: 25%;
