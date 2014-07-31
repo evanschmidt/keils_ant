@@ -679,7 +679,7 @@ h3.title /* Comment title */ {
 
 .mean-container {
   .mean-bar {
-    //background: none repeat scroll 0 0 transparent;
+    background: none repeat scroll 0 0 transparent;
   }
   a.meanmenu-reveal {
     background: none repeat scroll 0 0 $brown;
@@ -699,6 +699,7 @@ h3.title /* Comment title */ {
     }
     ul li a {
       background: none repeat scroll 0 0 $brown;
+      color: $blue;
     }
     ul li a:hover {
       background: none repeat scroll 0 0 $blue;
