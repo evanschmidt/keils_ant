@@ -168,7 +168,7 @@ $zen-auto-include-grid-item-base: false;
     @include zen-grid-container($context: flow);
     @include zen-grid-item(7, 1, $columns: 7);
     height: $nav-height;
-    //font-size: 0.8em;
+    font-size: 0.85em;
     //@include zen-grid-background();
   }
   #dhtml_menu-377 {
