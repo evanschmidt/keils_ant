@@ -1247,7 +1247,7 @@ table {
     bottom: 0;
     left: 30px;
     margin: 0;
-    padding: 0;
+    padding: 1em;
     position: absolute;
   }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003351}}
@@ -1273,7 +1273,7 @@ table {
 @media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/layouts\/_responsive\.scss}line{font-family:\00003360}}
   #header #block-search-form .search-form {
     bottom: 0;
-    margin: 0.5em 1em;
+    margin: 1em;
     position: absolute;
     right: 0;
   }

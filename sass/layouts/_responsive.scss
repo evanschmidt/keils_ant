@@ -344,7 +344,7 @@ $zen-auto-include-grid-item-base: false;
         bottom: 0;
         left: 30px;
         margin: 0;
-        padding: 0;
+        padding: 1em;
         position: absolute;
       }
     }
@@ -359,7 +359,7 @@ $zen-auto-include-grid-item-base: false;
       text-align: right;
     .search-form {
       bottom: 0;
-      margin: 0.5em 1em;
+      margin: 1em;
       position: absolute;
       right: 0;
     }
