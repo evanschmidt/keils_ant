@@ -3583,3 +3583,44 @@ h3.title {
 #block-contact-form-blocks-2 {
   width: 391px;
 }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/_keils\.scss}line{font-family:\00003721}}
+.field-name-field-page-image img,
+.field-name-body img,
+#block-block-6 img {
+  border: 3px solid #8CC3D0;
+  float: left;
+  margin: 20px 20px 10px 0;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/_keils\.scss}line{font-family:\00003728}}
+.node-antique .field {
+  margin-bottom: 5px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/_keils\.scss}line{font-family:\00003731}}
+.node-antique .field .field-label {
+  float: left;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/_keils\.scss}line{font-family:\00003734}}
+.field-name-field-antique-item-num {
+  font-size: .75em;
+  margin-bottom: 20px !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/_keils\.scss}line{font-family:\00003738}}
+h2.node-title {
+  color: #462211;
+  font-size: 1.15em;
+  margin-bottom: 27px;
+  position: relative;
+  top: 20px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/KeilsAntiques\/dev\/sites\/all\/themes\/keils_ant\/sass\/_keils\.scss}line{font-family:\00003745}}
+.node-antique h2.node-title {
+  font-size: 1.25em;
+  margin-bottom: 0;
+  top: 0;
+}
