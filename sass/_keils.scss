@@ -24,6 +24,10 @@ body {
   }
   #block-block-1 {
     color: $white;
+    a {
+      color: $white;
+      text-decoration: none;
+    }
   }
 }
 #main {
