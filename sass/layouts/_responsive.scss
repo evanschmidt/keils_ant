@@ -237,6 +237,12 @@ $zen-auto-include-grid-item-base: false;
   }
 }
 
+  #contact-site-form {
+      float: right;
+      padding: 0 0 0 10px;
+      width: 356px;
+  }
+
   /**
    * The layout when there is only one sidebar, the left one.
    */
@@ -507,6 +513,12 @@ $zen-auto-include-grid-item-base: false;
     @include zen-grid-item(1, 7);
   }
 }
+
+  #contact-site-form {
+      float: right;
+      padding: 0 0 0 10px;
+      width: 456px;
+  }
 
   /**
    * The layout when there is only one sidebar, the left one.
