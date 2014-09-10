@@ -246,7 +246,7 @@ $zen-auto-include-grid-item-base: false;
 
   .page-contact {
     /* Span 4 columns, starting in 2nd column from left. */
-    $zen-columns: 6;
+    $zen-columns: 4;
     $zen-gutters: 20px;
     #content {
       @include zen-grid-item(3, 2);
