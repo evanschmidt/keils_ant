@@ -517,8 +517,7 @@ $zen-auto-include-grid-item-base: false;
 
 
   .page-contact {
-    #page {
-    $zen-columns: 6;
+    #main {
       @include zen-grid-background( $grid-color: #ccc );
     }
     /* Span 4 columns, starting in 2nd column from left. */
