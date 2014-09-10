@@ -57,7 +57,8 @@ $zen-auto-include-grid-item-base: false;
   @include zen-grid-container();
 }
 #block-views-homepage-images-block,
-#block-block-3 {
+#block-block-3,
+.field-name-field-page-banner {
   display: none;
 }
 #block-block-1,
@@ -101,6 +102,10 @@ $zen-auto-include-grid-item-base: false;
 
   #main {
     //@include zen-grid-background();
+  }
+
+  .field-name-field-page-banner {
+    display: block;
   }
 
   #header {
@@ -385,7 +390,7 @@ $zen-auto-include-grid-item-base: false;
 }
 
 /**
- * Use 5 grid columns for larger screens.
+ * Use 6 grid columns for larger screens.
  */
 @media all and (min-width: 960px) {
 
@@ -394,6 +399,11 @@ $zen-auto-include-grid-item-base: false;
   #page {
     //@include zen-grid-background();
   }
+
+  .field-name-field-page-banner {
+    display: block;
+  }  
+
   #header {
     #block-block-1 {
       @include zen-grid-item(2, 1);      
