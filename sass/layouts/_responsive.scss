@@ -252,10 +252,10 @@ $zen-auto-include-grid-item-base: false;
       @include zen-grid-item(3, 2);
       @include zen-grid-background();
       #block-block-16 {
-        @include zen-grid-item(1, 1);        
+        @include zen-grid-item(2, 1);        
       }
       #contact-site-form {
-      @include zen-grid-item(2, 2);
+      @include zen-grid-item(2, 3);
       }
     }
   }
