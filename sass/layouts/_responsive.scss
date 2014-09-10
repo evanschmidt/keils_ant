@@ -64,6 +64,13 @@ $zen-auto-include-grid-item-base: false;
 #block-block-10 {
   display: none;
 }
+
+.field-name-field-page-image img, 
+.field-name-body img,
+#block-block-6 img {
+  float: none;
+}
+
 #block-block-1,
 #block-search-form {
   float: none;
@@ -114,19 +121,23 @@ $zen-auto-include-grid-item-base: false;
     display: block;
   }
 
-.front h1.title,
-.node-type-page #page-title,
-.page-faq-page #page-title,
-.page-contact #page-title, 
-.page-taxonomy-term-1 #page-title,
-.page-taxonomy-term-2 #page-title,
-.page-taxonomy-term-3 #page-title,
-.page-taxonomy-term-4 #page-title,
-.page-taxonomy-term-5 #page-title
-{
-  display: none;
-}
-
+  .front h1.title,
+  .node-type-page #page-title,
+  .page-faq-page #page-title,
+  .page-contact #page-title, 
+  .page-taxonomy-term-1 #page-title,
+  .page-taxonomy-term-2 #page-title,
+  .page-taxonomy-term-3 #page-title,
+  .page-taxonomy-term-4 #page-title,
+  .page-taxonomy-term-5 #page-title
+  {
+    display: none;
+  }
+  .field-name-field-page-image img, 
+  .field-name-body img,
+  #block-block-6 img {
+    float: left;
+  }
 
   #header {
     #block-block-1 {
@@ -427,18 +438,23 @@ $zen-auto-include-grid-item-base: false;
     display: block;
   }  
 
-.front h1.title,
-.node-type-page #page-title,
-.page-faq-page #page-title,
-.page-contact #page-title, 
-.page-taxonomy-term-1 #page-title,
-.page-taxonomy-term-2 #page-title,
-.page-taxonomy-term-3 #page-title,
-.page-taxonomy-term-4 #page-title,
-.page-taxonomy-term-5 #page-title
-{
-  display: none;
-}
+  .front h1.title,
+  .node-type-page #page-title,
+  .page-faq-page #page-title,
+  .page-contact #page-title, 
+  .page-taxonomy-term-1 #page-title,
+  .page-taxonomy-term-2 #page-title,
+  .page-taxonomy-term-3 #page-title,
+  .page-taxonomy-term-4 #page-title,
+  .page-taxonomy-term-5 #page-title
+  {
+    display: none;
+  }
+  .field-name-field-page-image img, 
+  .field-name-body img,
+  #block-block-6 img {
+    float: left;
+  }
 
   #header {
     #block-block-1 {
