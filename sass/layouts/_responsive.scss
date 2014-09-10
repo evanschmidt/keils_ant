@@ -521,10 +521,21 @@ $zen-auto-include-grid-item-base: false;
       width: 456px;
   }
 
+  .page-contact {
+    /* Span 4 columns, starting in 2nd column from left. */
+    $zen-columns: 6 !global;
+    $zen-gutters:  20px !global;
+    #content {
+      @include zen-grid-item(5, 2);
+      @include zen-grid-background();
+      padding-right: 6em;
+    }
+  }
+
   /**
    * The layout when there is only one sidebar, the left one.
    */
-  .sidebar-first, .page-contact {
+  .sidebar-first {
     /* Span 4 columns, starting in 2nd column from left. */
     $zen-columns: 6 !global;
     $zen-gutters:  20px !global;
