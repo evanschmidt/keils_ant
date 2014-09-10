@@ -524,6 +524,8 @@ $zen-auto-include-grid-item-base: false;
     $zen-columns: 6;
     $zen-gutters: 20px;
     #content {
+      @include zen-grid-item-base();
+      @include zen-grid-container($context: grid-item);
       @include zen-grid-item(5, 2);
       @include zen-grid-background();
       #block-block-16 {
