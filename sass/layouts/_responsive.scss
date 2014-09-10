@@ -524,6 +524,9 @@ $zen-auto-include-grid-item-base: false;
       @include zen-grid-item(5, 2);
       @include zen-grid-background();
       padding-right: 6em;
+      #block-block-16 {
+        @include zen-grid-item(3, 2);        
+      }
       #contact-site-form {
       @include zen-grid-item(3, 2);
       }
