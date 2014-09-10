@@ -249,6 +249,8 @@ $zen-auto-include-grid-item-base: false;
     $zen-columns: 4;
     $zen-gutters: 20px;
     #content {
+    $zen-columns: 6;
+    $zen-gutters: 10px;
       @include zen-grid-item(3, 2);
       @include zen-grid-background();
       #block-block-16 {
