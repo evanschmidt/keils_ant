@@ -515,11 +515,6 @@ $zen-auto-include-grid-item-base: false;
   }
 }
 
-  #contact-site-form {
-      float: right;
-      padding: 0 0 0 10px;
-      width: 456px;
-  }
 
   .page-contact {
     /* Span 4 columns, starting in 2nd column from left. */
@@ -529,6 +524,9 @@ $zen-auto-include-grid-item-base: false;
       @include zen-grid-item(5, 2);
       @include zen-grid-background();
       padding-right: 6em;
+      #contact-site-form {
+      @include zen-grid-item(3, 3);
+      }
     }
   }
 
