@@ -108,6 +108,20 @@ $zen-auto-include-grid-item-base: false;
     display: block;
   }
 
+.front h1.title,
+.node-type-page #page-title,
+.page-faq-page #page-title,
+.page-contact #page-title, 
+.page-taxonomy-term-1 #page-title,
+.page-taxonomy-term-2 #page-title,
+.page-taxonomy-term-3 #page-title,
+.page-taxonomy-term-4 #page-title,
+.page-taxonomy-term-5 #page-title
+{
+  display: none;
+}
+
+
   #header {
     #block-block-1 {
       @include zen-grid-item(1, 1);      
@@ -403,6 +417,19 @@ $zen-auto-include-grid-item-base: false;
   .field-name-field-page-banner {
     display: block;
   }  
+
+.front h1.title,
+.node-type-page #page-title,
+.page-faq-page #page-title,
+.page-contact #page-title, 
+.page-taxonomy-term-1 #page-title,
+.page-taxonomy-term-2 #page-title,
+.page-taxonomy-term-3 #page-title,
+.page-taxonomy-term-4 #page-title,
+.page-taxonomy-term-5 #page-title
+{
+  display: none;
+}
 
   #header {
     #block-block-1 {

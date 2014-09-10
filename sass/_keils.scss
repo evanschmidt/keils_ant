@@ -60,16 +60,7 @@ h3.title /* Comment title */ {
   margin: 0;
 }
 
-.front h1.title,
-.node-type-page #page-title,
-.page-faq-page #page-title,
-.page-contact #page-title, 
-.page-taxonomy-term-1 #page-title,
-.page-taxonomy-term-2 #page-title,
-.page-taxonomy-term-3 #page-title,
-.page-taxonomy-term-4 #page-title,
-.page-taxonomy-term-5 #page-title
-{
+.front h1.title {
   display: none;
 }
 #page-title {
