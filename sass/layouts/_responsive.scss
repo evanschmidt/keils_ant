@@ -418,6 +418,26 @@ $zen-auto-include-grid-item-base: false;
       @include zen-grid-item(1, 2);
     }
   }
+  .views-responsive-grid.views-columns-5 {
+    $zen-columns:  5 !global;
+    @include zen-grid-container($context: flow);
+    //@include zen-grid-background();  
+    .views-column-1 {
+      @include zen-grid-item(1, 1);
+    }
+    .views-column-2 {
+      @include zen-grid-item(1, 2);
+    }
+    .views-column-3 {
+      @include zen-grid-item(1, 3);
+    }
+    .views-column-4 {
+      @include zen-grid-item(1, 4);
+    }
+    .views-column-5 {
+      @include zen-grid-item(1, 5);
+    }
+  }  
 
 }
 
@@ -712,6 +732,26 @@ $zen-auto-include-grid-item-base: false;
     }
     .views-column-4 {
       @include zen-grid-item(1, 4);
+    }
+  }
+  .views-responsive-grid.views-columns-5 {
+    $zen-columns:  5 !global;
+    @include zen-grid-container($context: flow);
+    //@include zen-grid-background();  
+    .views-column-1 {
+      @include zen-grid-item(1, 1);
+    }
+    .views-column-2 {
+      @include zen-grid-item(1, 2);
+    }
+    .views-column-3 {
+      @include zen-grid-item(1, 3);
+    }
+    .views-column-4 {
+      @include zen-grid-item(1, 4);
+    }
+    .views-column-5 {
+      @include zen-grid-item(1, 5);
     }
   }
 }
