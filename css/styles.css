@@ -1394,15 +1394,15 @@ table {
     margin-left: 66.66667%;
     margin-right: -100%;
     *margin-right: -99.9%;
-    clear: left;
   }
-  /* line 435, ../sass/layouts/_responsive.scss */
+  /* line 434, ../sass/layouts/_responsive.scss */
   .views-responsive-grid.views-columns-5 .views-column-4 {
     float: left;
     width: 33.33333%;
     margin-left: 0%;
     margin-right: -100%;
     *margin-right: -99.9%;
+    clear: left;
   }
   /* line 438, ../sass/layouts/_responsive.scss */
   .views-responsive-grid.views-columns-5 .views-column-5 {
