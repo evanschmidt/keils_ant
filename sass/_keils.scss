@@ -169,35 +169,6 @@ h3.title /* Comment title */ {
   font-size: 1.2em;
   text-align: center;
 }
-#block-views-main-landing-block-1 h2:before,
-#block-views-main-landing-block-2 h2:before,
-#block-views-main-landing-block-3 h2:before,
-#block-views-main-landing-block-4 h2:before,
-#block-views-main-landing-block-5 h2:before {  
-  border-top: 1px solid;
-  content: "";
-  display: block;
-  height: 1px;
-  position: absolute;
-  top: 5%;
-  width: 38%;
-  z-index: 1;
-}
-#block-views-main-landing-block-1 h2:after,
-#block-views-main-landing-block-2 h2:after,
-#block-views-main-landing-block-3 h2:after,
-#block-views-main-landing-block-4 h2:after,
-#block-views-main-landing-block-5 h2:after {  
-  border-top: 1px solid;
-  content: "";
-  display: block;
-  height: 1px;
-  position: absolute;
-  right: 0;
-  top: 5%;
-  width: 38%;
-  z-index: 1;
-}  
 #block-views-main-landing-block-1 img,
 #block-views-main-landing-block-2 img,
 #block-views-main-landing-block-3 img,
