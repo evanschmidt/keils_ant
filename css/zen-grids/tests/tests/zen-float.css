@@ -1,0 +1,17 @@
+/**
+ * @file
+ * Test zen-float()
+ */
+/* line 8, ../../../../sass-extensions/zen-grids/tests/tests/zen-float.scss */
+#test-zen-float {
+  /* Test zen-float() */
+  float: left;
+  /* Test zen-float() with $zen-direction: right */
+  float: right;
+  /* Test zen-float(left) */
+  float: left;
+  /* Test zen-float(left, $switch-direction: TRUE) */
+  float: right;
+  /* Test zen-float(left) with: $zen-switch-direction: TRUE; */
+  float: right;
+}
