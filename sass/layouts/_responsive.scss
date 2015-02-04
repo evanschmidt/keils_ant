@@ -56,6 +56,7 @@ $zen-auto-include-grid-item-base: false;
 #footer {
   @include zen-grid-container();
 }
+#block-views-homepage-images-block,
 #block-block-3,
 .field-name-field-page-banner,
 .views-field-field-term-image,
@@ -493,6 +494,7 @@ $zen-auto-include-grid-item-base: false;
     @include zen-grid-container($context: grid-item);
     @include zen-grid-item(6, 1);
     display: block;
+    height: 400px;
   }
   #block-block-17 {
     display: none;
