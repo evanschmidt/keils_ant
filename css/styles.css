@@ -642,7 +642,8 @@ table {
   clear: both;
 }
 
-/* line 60, ../sass/layouts/_responsive.scss */
+/* line 59, ../sass/layouts/_responsive.scss */
+#block-views-homepage-images-block,
 #block-block-3,
 .field-name-field-page-banner,
 .views-field-field-term-image,
@@ -1447,6 +1448,7 @@ table {
     margin-left: 0%;
     margin-right: -100%;
     *margin-right: -99.9%;
+    display: block;
   }
   /* line 43, ../sass-extensions/zen-grids/zen-grids/_grids.scss */
   #block-views-homepage-images-block:before, #block-views-homepage-images-block:after {
