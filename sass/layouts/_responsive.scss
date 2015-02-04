@@ -185,7 +185,7 @@ $zen-auto-include-grid-item-base: false;
       @include zen-grid-item-base();
       @include zen-grid-container($context: grid-item);
       @include zen-grid-item(4, 1);
-      $zen-columns: 3;
+      $zen-columns: 3!global;
     @include zen-grid-background();
     #block-views-main-landing-block-7 {
       @include zen-grid-item-base();
