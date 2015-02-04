@@ -1400,7 +1400,7 @@ table {
   .views-responsive-grid.views-columns-5 .views-column-4 {
     float: left;
     width: 33.33333%;
-    margin-left: 33.33333%;
+    margin-left: 0%;
     margin-right: -100%;
     *margin-right: -99.9%;
   }
@@ -1408,7 +1408,7 @@ table {
   .views-responsive-grid.views-columns-5 .views-column-5 {
     float: left;
     width: 33.33333%;
-    margin-left: 66.66667%;
+    margin-left: 33.33333%;
     margin-right: -100%;
     *margin-right: -99.9%;
   }
