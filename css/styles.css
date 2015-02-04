@@ -892,7 +892,7 @@ table {
   }
   /* line 210, ../sass/layouts/_responsive.scss */
   .region-content-bottom #block-views-main-landing-block-7 img {
-    width: 110px;
+    width: 50%;
     margin-top: 0.5em;
     height: auto;
   }
@@ -955,7 +955,7 @@ table {
   }
   /* line 228, ../sass/layouts/_responsive.scss */
   .region-content-bottom #block-views-main-landing-block-6 img {
-    width: 110px;
+    width: 50%;
     margin-top: 0.5em;
     height: auto;
   }
