@@ -112,6 +112,7 @@
 .print-footer {
   font-size: .95em;
   margin-top: 5px;
+  text-align: center;
 }
 .print-footer a {
   color: #000000;
