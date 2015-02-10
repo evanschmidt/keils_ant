@@ -24,7 +24,7 @@
 	<?php
       $image_uri = $node->field_antique_images['und'][0]['uri'];
       $image_url_with_style = image_style_url('antique_print',$image_uri);
-      echo '<img src="'.$image_url_with_style.'">';
+      echo '<img src="'.$image_url_with_style.'" class="antique_print_image">';
 	?>
     <div class="print-content"><?php print $print['content']; ?></div>
     <div class="print-footer"><?php print $print['footer_message']; ?></div>
