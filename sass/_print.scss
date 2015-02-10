@@ -79,3 +79,50 @@
     display: none;
   }
 }
+#page-wrapper {
+  overflow-y: visible;
+}
+.print-logo {
+  margin-bottom: 10px;
+}
+.print-content {
+  position: relative;
+  text-align: center;
+}
+.print-content h2 {
+  font-size: 1.2em;
+  margin: 0;
+}
+.print-content .field-name-field-antique-item-num {
+  font-size: 0.85em;
+}
+.print-content .field-name-field-antique-length,
+.print-content .field-name-field-antique-height,
+.print-content .field-name-field-antique-height-2,
+.print-content .field-name-field-antique-width,
+.print-content .field-name-field-antique-depth {
+  display: inline-block;
+  margin-right: 1em;
+}
+
+.print-footer {
+  font-size: .95em;
+  margin-top: 5px;
+}
+.print-footer a {
+  color: #000000;
+  text-decoration: none;
+}
+.print-footer #block-block-5 p {
+  display: inline;
+  margin: 10px 0 0;
+}
+.foot-hours {
+  display: none;
+}
+.foot-copy, .foot-facebook {
+  display: none;
+}
+.foot-phone {
+  margin: 10px;
+}
