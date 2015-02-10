@@ -17,7 +17,7 @@
     <?php print $print['sendtoprinter']; ?>
     <?php print $print['robots_meta']; ?>
     <?php print $print['favicon']; ?>
-    <?php print $print['css']; ?>
+    <?php //print $print['css']; ?>
     <?php print $styles; ?>
   </head>
   <body>
