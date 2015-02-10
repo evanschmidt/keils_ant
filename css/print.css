@@ -90,10 +90,9 @@
   text-align: center;
 }
 .antique_print_image {
-  text-align: center;
-  margin: auto; 
+    display: block;
+    margin: auto;
 }
-
 .print-content h2 {
   font-size: 1.2em;
   margin: 0;
