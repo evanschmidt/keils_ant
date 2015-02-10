@@ -1,24 +1,46 @@
 <?php
-
 /**
  * @file
- * Default print module template
+ * Returns the HTML for the basic html structure of a single Drupal page.
  *
- * @ingroup print
+ * Complete documentation for this file is available online.
+ * @see https://drupal.org/node/1728208
  */
-?>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" lang="<?php print $print['language']; ?>" xml:lang="<?php print $print['language']; ?>">
-  <head>
-    <?php print $print['head']; ?>
-    <?php print $print['base_href']; ?>
-    <title><?php print $print['title']; ?></title>
-    <?php print $print['scripts']; ?>
-    <?php print $print['sendtoprinter']; ?>
-    <?php print $print['robots_meta']; ?>
-    <?php print $print['favicon']; ?>
-    <?php print $print['css']; ?>
-  </head>
+?><!DOCTYPE html>
+<!--[if IEMobile 7]><html class="iem7" <?php print $html_attributes; ?>><![endif]-->
+<!--[if lte IE 6]><html class="lt-ie9 lt-ie8 lt-ie7" <?php print $html_attributes; ?>><![endif]-->
+<!--[if (IE 7)&(!IEMobile)]><html class="lt-ie9 lt-ie8" <?php print $html_attributes; ?>><![endif]-->
+<!--[if IE 8]><html class="lt-ie9" <?php print $html_attributes; ?>><![endif]-->
+<!--[if (gte IE 9)|(gt IEMobile 7)]><!--><html <?php print $html_attributes . $rdf_namespaces; ?>><!--<![endif]-->
+
+<head>
+  <?php print $head; ?>
+  <title><?php print $head_title; ?></title>
+
+  <?php if ($default_mobile_metatags): ?>
+    <meta name="MobileOptimized" content="width">
+    <meta name="HandheldFriendly" content="true">
+    <meta name="viewport" content="width=device-width">
+  <?php endif; ?>
+  <meta http-equiv="cleartype" content="on">
+
+  <?php print $styles; ?>
+  <?php print $scripts; ?>
+  <?php if ($add_html5_shim and !$add_respond_js): ?>
+    <!--[if lt IE 9]>
+    <script src="<?php print $base_path . $path_to_zen; ?>/js/html5.js"></script>
+    <![endif]-->
+  <?php elseif ($add_html5_shim and $add_respond_js): ?>
+    <!--[if lt IE 9]>
+    <script src="<?php print $base_path . $path_to_zen; ?>/js/html5-respond.js"></script>
+    <![endif]-->
+  <?php elseif ($add_respond_js): ?>
+    <!--[if lt IE 9]>
+    <script src="<?php print $base_path . $path_to_zen; ?>/js/respond.js"></script>
+    <![endif]-->
+  <?php endif; ?>
+</head>
+
   <body>
     <div class="print-logo"><?php print $print['logo']; ?></div>
 	<?php
