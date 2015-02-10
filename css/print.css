@@ -83,12 +83,13 @@
 }
 .print-logo {
   margin-bottom: 10px;
+  text-align: center;
 }
 .print-content {
   position: relative;
   text-align: center;
 }
-.print-content .antique_print_image {
+.antique_print_image {
   text-align: center;
   margin: auto; 
 }
