@@ -41,7 +41,7 @@
   <?php endif; ?>
 </head>
 
-  <body>
+  <body>hello
     <div class="print-logo"><?php print $print['logo']; ?></div>
 	<?php
       $image_uri = $node->field_antique_images['und'][0]['uri'];
