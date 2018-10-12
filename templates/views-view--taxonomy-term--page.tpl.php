@@ -48,7 +48,7 @@
   <?php endif; ?>
 <?php //endif; ?>
 
-<?php if ($view->args[0]!=1 && $view->args[0]!=2 && $view->args[0]!=3 && $view->args[0]!=4 && $view->args[0]!=5): ?>
+<?php if ($view->args[0]!=1 && $view->args[0]!=2 && $view->args[0]!=3 && $view->args[0]!=4 && $view->args[0]!=5 && $view->args[0]!=111): ?>
   <?php if ($pager): ?>
     <?php print $pager; ?>
   <?php endif; ?>
